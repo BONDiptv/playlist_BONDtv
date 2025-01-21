@@ -835,12 +835,6 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/ch
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-name="FWTOON" tvg-logo="https://www.i-pic.info/i/OrXo682660.png" group-title="",FWTOON
-#EXTVLCOPT:https://www.inwiptv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-https://www.inwiptv.com/player_demo.php?channel=89780
-
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ช่องการ์ตูน",Pet Collective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ykPNNwQ.png" group-title="ช่องการ์ตูน",PetClub TV2
