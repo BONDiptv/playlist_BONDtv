@@ -803,7 +803,8 @@ EXTINF:-1 group-title="ช่องการ์ตูน"   tvg-logo="https://en
 https://livestream.zazerconer.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
 https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
-
+#EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/PTsGKkL/image.png" ,โรโบคาร์โพลีทีวี
+https://livestream.zazerconer.workers.dev/channel/UCvKicVPiOrIuZdEYmxuRQug.m3u8
 
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://img2.pic.in.th/pic/666-crop-crop3250632baf054ae1.png",BOOM ANIME
 https://edge6a.v2h-cdn.com//boom_anime/boom_anime.stream/playlist.m3u8
