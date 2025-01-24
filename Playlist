@@ -1331,88 +1331,27 @@ https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id="Bein Sports 1" tvg-logo="https://dookeela.live/uploads/1664500365.png" group-title="ช่องกีฬา",Bein Sports 1
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/bein1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 2" tvg-logo="https://dookeela.live/uploads/1690843424.png" group-title="ช่องกีฬา",Bein Sports 2
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/bein2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 3" tvg-logo="https://dookeela.live/uploads/1663980670.png" group-title="ช่องกีฬา",Bein Sports 3
-#EXTVLCOPT:http-referrer=https://dooball2you.com/
-https://cdnsv1.bunnycdncloud.com/dooball2you/bein3/playlist.m3u8
+#EXTINF:-1 tvg-id="Bein Sport HD 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ช่องกีฬา",Bein Sport HD 1
+#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
+https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Bein Sports 4" tvg-logo="https://dookeela.live/uploads/1692816640.png" group-title="ช่องกีฬา",Bein Sports 4
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein4/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 5" tvg-logo="https://dookeela.live/uploads/1693290376.png" group-title="ช่องกีฬา",Bein Sports 5
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein5/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 6" tvg-logo="https://dookeela.live/uploads/1694719513.png" group-title="ช่องกีฬา",Bein Sports 6
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein6/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 7" tvg-logo="https://dookeela.live/uploads/1694719622.png" group-title="ช่องกีฬา",Bein Sports 7
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein7/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 8" tvg-logo="https://dookeela.live/uploads/1724241278.png" group-title="ช่องกีฬา",Bein Sports 8
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein8/chunks.m3u8
-
-#EXTINF:-1 tvg-id="Bein Sports 9" tvg-logo="https://dookeela.live/uploads/1724241287.png" group-title="ช่องกีฬา",Bein Sports 9
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/bein9/chunks.m3u8
+#EXTINF:-1 tvg-id="True Sport 1 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/27f34e20-7374-11ec-b576-afbb0a1303ef_webp_320.png" group-title="ช่องกีฬา",True Sport 1 TH
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/playlist.m3u8
 
 
-#EXTINF:-1 tvg-id="True Spots 1" tvg-logo="https://dookeela.live/uploads/1664802455.png" group-title="ช่องกีฬา",True Spots 1
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/tsp1/chunks.m3u8
+#EXTINF:-1 tvg-id="True Sport 2 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/285432d0-7374-11ec-8066-ffb72c13e721_webp_320.png" group-title="ช่องกีฬา",True Sport 2 TH
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd2/playlist.m3u8
 
-#EXTINF:-1 tvg-id="True Spots 2" tvg-logo="https://dookeela.live/uploads/1664499966.png" group-title="ช่องกีฬา",True Spots 2
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/tsp2/chunks.m3u8
+#EXTINF:-1 tvg-id="True Sport 3 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2022/01/12/28a5ae30-7374-11ec-91d2-797a50c5a656_webp_320.png" group-title="ช่องกีฬา",True Sport 3 TH
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd3/playlist.m3u8
 
-#EXTINF:-1 tvg-id="True Spots 3" tvg-logo="https://dookeela.live/uploads/1664802480.png" group-title="ช่องกีฬา",True Spots 3
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/tsp3/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Spots 4" tvg-logo="https://dookeela.live/uploads/1717396131.png" group-title="ช่องกีฬา",True Spots 4
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/tsp4/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Spots 5" tvg-logo="https://dookeela.live/uploads/1664847910.png" group-title="ช่องกีฬา",True Spots 5
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/tsp5/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Spots 7" tvg-logo="https://dookeela.live/uploads/1664847921.png" group-title="ช่องกีฬา",True Spots 7
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/tsp7/chunks.m3u8
-
-
-
-#EXTINF:-1 tvg-id="True Ball Thai 1" tvg-logo="https://img2.pic.in.th/pic/bat1a77b97579b29efec.png" group-title="ช่องกีฬา",True Ball Thai 1
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/trueballthai1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Ball Thai 1" tvg-logo="https://img2.pic.in.th/pic/bat1a77b97579b29efec.png" group-title="ช่องกีฬา",True Ball Thai 1
-#EXTVLCOPT:http-referrer=hhttps://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Ball Thai 2" tvg-logo="https://dookeela.live/uploads/1691444816.png" group-title="ช่องกีฬา",True Ball Thai 2
-#EXTVLCOPT:http-referrer=https://dooballx.com/
-https://cdn1.googlecdn.live/dooballx/trueballthai1/chunks.m3u8
-
-#EXTINF:-1 tvg-id="True Ball Thai 2" tvg-logo="https://dookeela.live/uploads/1691444816.png" group-title="ช่องกีฬา",True Ball Thai 2
-#EXTVLCOPT:http-referrer=hhttps://doolive4k.tv/
-https://dolive.thaim3u.com/doolive4k-tv/youtube-1/chunks.m3u8
-
+#EXTINF:-1 tvg-id="True Sport 4 TH" tvg-logo="https://cms.dmpcdn.com/livetv/2019/10/28/3f554960-f973-11e9-91cd-2f79be09d2b3_original.png" group-title="ช่องกีฬา",True Sport 4 TH
+#EXTVLCOPT:http-referrer=https://www.andaman888th.com/
+https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd4/playlist.m3u8
 
 
 
