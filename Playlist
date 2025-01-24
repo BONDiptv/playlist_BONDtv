@@ -1331,10 +1331,6 @@ https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="Bein Sport HD 1" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS1_DIGITAL_Mono.png" group-title="ช่องกีฬา",Bein Sport HD 1
-#EXTVLCOPT:http-referrer=https://streaming.livescorethai.net/
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/playlist.m3u8
-
 
 #EXTINF:-1 group-title="ช่องกีฬา" tvg-id="beinsports1thailand.th" tvg-logo="https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png", Bein Sports 1-livescorethai
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
