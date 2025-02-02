@@ -1875,6 +1875,32 @@ https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536991.png" group-title="ช่องสารคดี",MySci
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0152/DASH/V0152.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2dbd90ab924541643ab59ab494b274bf&chunkHttps=true&tmid=B0003&tpbk=mpqXOUt8ZGZO5J82&rrt=1738418027&tmod=rfk&rsid=184acb09-19b1-4519-bc65-7a63ef9f009b&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=17385044268
+
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166670.png" group-title="ช่องสารคดี",True Explore Life
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/trueexplife.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724167268.png" group-title="ช่องสารคดี",True Explore Sci
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/trueexpsci.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1724166218.png" group-title="ช่องสารคดี",True Explore Wild
+#EXTVLCOPT:http-referrer=https://soccertv4k.com/
+https://playtvthai.github.io/m3u8/movie/trueexpwild.m3u8
+
+#EXTINF:-1 tvg-logo="https://dookeela.live/uploads/1705536821.png" group-title="ช่องสารคดี",สำรวจโลก
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://49-231-34-101-rewriter.ais-vidnt.com/ais/play/anevia/live/eds/V0151/DASH/V0151.mpd?playbackUrlPrefix=https%3A%2F%2Ftr.play-rbcdn.ais.co.th%3A8438%2F&originBasicUrl=http%3A%2F%2Fpl-origin.ais-vidnt.com%2Fais%2Fplay%2Fanevia&tt=2dbd90ab924541643ab59ab494b274bf&chunkHttps=true&tmid=B0003&tpbk=mpqXOUt8ZGZO5J82&rrt=1738418027&tmod=rfk&rsid=184acb09-19b1-4519-bc65-7a63ef9f009b&tuid=uwBArnpAx%2Bl0ZsSr5YKY5WRspbalaoonO8fj9s7VEqPm9jZ6Yc22e4%2Bn%2Fqh3ZDG2poQTLYxWNqIVgz3ZzybbJRYxoCKRCAXvEsIjAJLONECn0%3D&cdn=redfox-https&tdid=91036df07abea77e7ec1a62aa4296220&origin=anevia&tfa=f0-fc&tttl=1738504426
+
+
+
+
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------
