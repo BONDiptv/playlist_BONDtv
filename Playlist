@@ -1672,7 +1672,8 @@ https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8
 
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ytimg.com/vi/Zn1yvsGD-TU/maxresdefault.jpg",BabyBus
 https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
-
+EXTINF:-1 group-title="ช่องการ์ตูน"   tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVfKsOCHZW1jzOsGZydivGZP2ZDwROxtPdWQ&usqp=CAU",Disney Junior NO 24/7
+https://livestream.zazerconer.workers.dev/channel/UCNcdbMyA59zE-Vk668bKWOg.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNbxe5sIiySX5-PgYL5nGo334cNGlHE8D4EQ&usqp=CAU" ,BabyBus - Kids Songs and Cartoons
 https://livestream.zazerconer.workers.dev/channel/UCpYye8D5fFMUPf9nSfgd4bA.m3u8
 #EXTINF:-1 group-title="ช่องการ์ตูน" tvg-logo="https://i.ibb.co/PTsGKkL/image.png" ,โรโบคาร์โพลีทีวี
@@ -1706,8 +1707,6 @@ https://edge2-bkk.3bb.co.th:9443/Web_CartoonClub_Live/cartoonclub_480P.stream/ch
 #EXTINF:-1 tvg-id="" tvg-logo="https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Boomerang_2.png" group-title="ช่องการ์ตูน",boomerang
 https://edge2a.v2h-cdn.com/boomerang/boomerang.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Mr. Bean Cartoon"  tvg-logo="https://www.upload.ee/image/17681204/Mr.Bean.png" group-title="ช่องการ์ตูน",Mr. Bean Cartoon
-https://amg00627-amg00627c30-rakuten-es-3990.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanescc-rakutenes/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/w7RdSIk.png" group-title="ช่องการ์ตูน",Pet Collective1
 https://the-pet-collective-international-in.samsung.wurl.tv/3000.m3u8
@@ -5528,6 +5527,34 @@ https://main.24playerhd.com/newplaylist/1b5fd4d95c2691866e9c8db4/1b5fd4d95c26918
 
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5467/20250118154757cuYZ.jpg" group-title="หนังใหม่-2025" ,สายลับกลับมาลุย (2025)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/movie.m3u8
+
+
+
+########################################
+หนังใหม่-2024 2/02/2025 tongha-movie.com
+########################################
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5416/20241212120601LlYO.jpg" group-title="หนังใหม่-2024" ,มอาน่า 2 (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5416/video/20580/hls/movie.m3u8
+
+
+
+
+
+########################################
+หนังใหม่-2024 2/02/2025 by24-hd.com
+########################################
+
+
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Panda-Plan-2024-แพนด้าเด้งสู้ฟัด-187x269.png" group-title="หนังใหม่-2024" ,แพนด้าเด้งสู้ฟัด (2024)
+https://main.24playerhd.com/newplaylist/f2cd888d320c0d527f614c8e/f2cd888d320c0d527f614c8e.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Bat-War-2024-ศึกค้างคาวกินกล้วย-187x269.png" group-title="หนังใหม่-2024" ,ศึกค้างคาวกินกล้วย (2024)
+https://main.24playerhd.com/newplaylist/051902297114c0ff1ae6b4a2/051902297114c0ff1ae6b4a2.m3u8
+
+
 
 
 ########################################
@@ -14292,5 +14319,3 @@ Cinema_Toon 13/10/2024
              
             #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/3015/20220712160429l7Kz.jpg" group-title="หนังการ์ตูน" ,Ratatouille - ระ-ทะ-ทู-อี่ พ่อครัวตัวจี๊ด หัวใจคับโลก (2007) [HD]
             https://movie.server-cdn-streaming.com/api/uploads/movie/3015/video/6741/hls/movie.m3u8
-
-
