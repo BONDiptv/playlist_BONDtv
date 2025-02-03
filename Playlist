@@ -13085,12 +13085,17 @@ https://m1free.inwstream.com:1936/movie4/Incoming_2024/Incoming_2024_th_1080.mp4
 https://m1free.inwstream.com:1936/movie4/Aadujeevitham_The_Goat_Life_2024/Aadujeevitham_The_Goat_Life_2024_st_1080.mp4/playlist.m3u8
 
 
-
 ########################################
-Cinema_Toon 13/10/2024
+Cinema_Toon 3/02/2025
 ########################################
 
 
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5416/20241212120601LlYO.jpg" group-title="หนังการ์ตูน" ,โมอาน่า 2 (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5416/video/20580/hls/movie.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Moana-2016-โมอาน่า-ผจญภัยตำนานหมู่เกาะทะเลใต้-187x269.png" group-title="หนังการ์ตูน" ,โมอาน่า 1 (2016)
+https://main.24playerhd.com/newplaylist/35c26a382b545c3f1927251a/35c26a382b545c3f1927251a.m3u8
 
            
            
