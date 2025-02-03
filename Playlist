@@ -5908,787 +5908,400 @@ Cinema_Toon 3/02/2025
 
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5416/20241212120601LlYO.jpg" group-title="หนังการ์ตูน" ,โมอาน่า 2 (2024)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5416/video/20580/hls/movie.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2025/01/Moana-2016-โมอาน่า-ผจญภัยตำนานหมู่เกาะทะเลใต้-187x269.png" group-title="หนังการ์ตูน" ,โมอาน่า 1 (2016)
 https://main.24playerhd.com/newplaylist/35c26a382b545c3f1927251a/35c26a382b545c3f1927251a.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/09/Thelma-the-Unicorn-ยูนิคอร์นน้อยเทลม่า-2024.jpg" group-title="หนังการ์ตูน" ,ยูนิคอร์นน้อยเทลม่า Thelma the Unicorn (2024)
-https://main.24playerhd.com/newplaylist/edc968c991bee195b8115189/edc968c991bee195b8115189.m3u8
-     
+https://main.24playerhd.com/newplaylist/edc968c991bee195b8115189/edc968c991bee195b8115189.m3u8   
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Despicable-Me-4-2024-มิสเตอร์แสบ-ร้ายเกินพิกัด-4-1.jpg" group-title="หนังการ์ตูน" ,มิสเตอร์แสบ ร้ายเกินพิกัด Despicable Me 4 (2024) 4
 https://main.24playerhd.com/newplaylist/c171dddc932e0022e5373151/c171dddc932e0022e5373151.m3u8
-
-       
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/08/Saving-Bikini-Bottom-The-Sandy-Cheeks-Movie-2024.jpg" group-title="หนังการ์ตูน" ,Saving Bikini Bottom The Sandy Cheeks Movie (2024)
 https://main.24playerhd.com/newplaylist/708af05f09dd62b42394ef3a/708af05f09dd62b42394ef3a.m3u8
-
-      
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024-เดอะ-การ์ฟิลด์-มูฟวี่-1.jpg" group-title="หนังการ์ตูน" ,เดอะ การ์ฟิลด์ มูฟวี่ The Garfield Movie (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/The-Garfield-Movie-2024-เดอะ-การ์ฟิลด์-มูฟวี่-1.jpg" group-title="หนังการ์ตูน" ,เดอะ การ์ฟิลด์ มูฟวี่ The Garfield Movie (2024)
 https://main.24playerhd.com/newplaylist/aafee061134d6bce1fa38f01/aafee061134d6bce1fa38f01.m3u8
-       
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/The-Imaginary-2023-จินตนาการ.jpg" group-title="หนังการ์ตูน" ,จินตนาการ The Imaginary (2023) 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/The-Imaginary-2023-จินตนาการ.jpg" group-title="หนังการ์ตูน" ,จินตนาการ The Imaginary (2023) 
 https://main.24playerhd.com/newplaylist/8afb1e4e894e5c1dc3e1db6b/8afb1e4e894e5c1dc3e1db6b.m3u8
-           
-      
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Space-Jam-A-New-Legacy-2021-1.jpg" group-title="หนังการ์ตูน" ,Space Jam A New Legacy (2021)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Space-Jam-A-New-Legacy-2021-1.jpg" group-title="หนังการ์ตูน" ,Space Jam A New Legacy (2021)
 https://main.24playerhd.com/newplaylist/396d28eaf678c2c1ae6ece15/396d28eaf678c2c1ae6ece15.m3u8
-
-        
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Looney-Tunes-Back-in-Action-2003-ลูนี่ย์-ทูนส์-รวมพลพรรคผจญภัยสุดโลก.jpg" group-title="หนังการ์ตูน" ,Looney Tunes Back in Action (2003) ลูนี่ย์ ทูนส์ รวมพลพรรคผจญภัยสุดโลก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Looney-Tunes-Back-in-Action-2003-ลูนี่ย์-ทูนส์-รวมพลพรรคผจญภัยสุดโลก.jpg" group-title="หนังการ์ตูน" ,Looney Tunes Back in Action (2003) ลูนี่ย์ ทูนส์ รวมพลพรรคผจญภัยสุดโลก
 https://main.24playerhd.com/newplaylist/d00719b9e7b2f2d6511e0d17/d00719b9e7b2f2d6511e0d17.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Space-Jam-1996-สเปซแจม-ทะลุมิติมหัศจรรย์.jpg" group-title="หนังการ์ตูน" ,Space Jam (1996) สเปซแจม ทะลุมิติมหัศจรรย์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Space-Jam-1996-สเปซแจม-ทะลุมิติมหัศจรรย์.jpg" group-title="หนังการ์ตูน" ,Space Jam (1996) สเปซแจม ทะลุมิติมหัศจรรย์
 https://main.24playerhd.com/newplaylist/fc5e30b858d6c3c94704aca6/fc5e30b858d6c3c94704aca6.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Toy-Story-4-2019-ทอย-สตอรี่-4.jpg" group-title="หนังการ์ตูน" ,Toy Story 4 (2019) ทอย สตอรี่ 4
 https://main.24playerhd.com/newplaylist/ad077c70abf0c5380545e282/ad077c70abf0c5380545e282.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Toy-Story-3-2010-ทอย-สตอรี่-3.jpg" group-title="หนังการ์ตูน" ,Toy Story 3 (2010) ทอย สตอรี่ 3
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Toy-Story-3-2010-ทอย-สตอรี่-3.jpg" group-title="หนังการ์ตูน" ,Toy Story 3 (2010) ทอย สตอรี่ 3
 https://main.24playerhd.com/newplaylist/d246d6ab211698265d329896/d246d6ab211698265d329896.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Toy-Story-2-1999-ทอย-สตอรี่-2.jpg" group-title="หนังการ์ตูน" ,Toy Story 2 (1999) ทอย สตอรี่ 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Toy-Story-2-1999-ทอย-สตอรี่-2.jpg" group-title="หนังการ์ตูน" ,Toy Story 2 (1999) ทอย สตอรี่ 2
 https://main.24playerhd.com/newplaylist/47893ccf8cc5ef117a110b9b/47893ccf8cc5ef117a110b9b.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Toy-Story-1995-ทอย-สเตอรี่.jpg" group-title="หนังการ์ตูน" ,Toy Story (1995) ทอย สเตอรี่
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/07/Toy-Story-1995-ทอย-สเตอรี่.jpg" group-title="หนังการ์ตูน" ,Toy Story (1995) ทอย สเตอรี่
 https://main.24playerhd.com/newplaylist/7f1e9743a5e51be242f0662d/7f1e9743a5e51be242f0662d.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-1.jpg" group-title="หนังการ์ตูน" ,IF (2024) เพื่อนในจินตนาการ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/IF-2024-เพื่อนในจินตนาการ-1.jpg" group-title="หนังการ์ตูน" ,IF (2024) เพื่อนในจินตนาการ
 https://main.24playerhd.com/newplaylist/85d2e886f7dec651487675bb/85d2e886f7dec651487675bb.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-ปาฏิหาริย์แห่งสายสัมพันธ์-สู่การสั่งสอนของเสาหลัก.jpg" group-title="หนังการ์ตูน" ,Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Demon-Slayer-Kimetsu-no-Yaiba-To-the-Hashira-Training-2024-ปาฏิหาริย์แห่งสายสัมพันธ์-สู่การสั่งสอนของเสาหลัก.jpg" group-title="หนังการ์ตูน" ,Demon Slayer Kimetsu no Yaiba To the Hashira Training (2024) ปาฏิหาริย์แห่งสายสัมพันธ์ สู่การสั่งสอนของเสาหลัก
 https://main.24playerhd.com/newplaylist/36186c8af74765773a42e37e/36186c8af74765773a42e37e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle-2024-ไฮคิว-คู่ตบฟ้าประทาน-ตอน-ศึกที่กองขยะ-1.jpg" group-title="หนังการ์ตูน" ,Haikyuu!! The Dumpster Battle (2024) ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Haikyuu-The-Dumpster-Battle-2024-ไฮคิว-คู่ตบฟ้าประทาน-ตอน-ศึกที่กองขยะ-1.jpg" group-title="หนังการ์ตูน" ,Haikyuu!! The Dumpster Battle (2024) ไฮคิว!! คู่ตบฟ้าประทาน ตอน ศึกที่กองขยะ
 https://main.24playerhd.com/newplaylist/a37956f4efbb08dcaf860dcf/a37956f4efbb08dcaf860dcf.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Boy-and-the-Heron-2023-เด็กชายกับนกกระสา.jpg" group-title="หนังการ์ตูน" ,The Boy and the Heron (2023) เด็กชายกับนกกระสา
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Boy-and-the-Heron-2023-เด็กชายกับนกกระสา.jpg" group-title="หนังการ์ตูน" ,The Boy and the Heron (2023) เด็กชายกับนกกระสา
 https://main.24playerhd.com/newplaylist/fe610bdaf804ded6c473698c/fe610bdaf804ded6c473698c.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Baby-Sharks-Big-Movie-2024.jpg" group-title="หนังการ์ตูน" ,Baby Shark's Big Movie (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Baby-Sharks-Big-Movie-2024.jpg" group-title="หนังการ์ตูน" ,Baby Shark's Big Movie (2024)
 https://main.24playerhd.com/newplaylist/7798cab0968732d9f5070bbd/7798cab0968732d9f5070bbd.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/The-Frist-Slam-Dunk-2022-เดอะ-เฟิสต์-สแลมดังก์.jpg" group-title="หนังการ์ตูน" ,The Frist Slam Dunk (2022) เดอะ เฟิสต์ สแลมดังก์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/The-Frist-Slam-Dunk-2022-เดอะ-เฟิสต์-สแลมดังก์.jpg" group-title="หนังการ์ตูน" ,The Frist Slam Dunk (2022) เดอะ เฟิสต์ สแลมดังก์
 https://main.24playerhd.com/newplaylist/ee58069434ccb3604c0d6eaa/ee58069434ccb3604c0d6eaa.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Inside-Out-2-2024-มหัศจรรย์อารมณ์อลเวง-2.jpg" group-title="หนังการ์ตูน" ,Inside Out 2 (2024) มหัศจรรย์อารมณ์อลเวง 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Inside-Out-2-2024-มหัศจรรย์อารมณ์อลเวง-2.jpg" group-title="หนังการ์ตูน" ,Inside Out 2 (2024) มหัศจรรย์อารมณ์อลเวง 2
 https://main.24playerhd.com/newplaylist/6904556cefce727be869705e/6904556cefce727be869705e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Inside-Out-2015-มหัศจรรย์อารมณ์อลเวง-1.jpg"group-title="หนังการ์ตูน" ,Inside Out (2015) มหัศจรรย์อารมณ์อลเวง
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Inside-Out-2015-มหัศจรรย์อารมณ์อลเวง-1.jpg"group-title="หนังการ์ตูน" ,Inside Out (2015) มหัศจรรย์อารมณ์อลเวง
 https://main.24playerhd.com/newplaylist/3c8fe3c05de486ec8948e6fd/3c8fe3c05de486ec8948e6fd.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Big-City-Greens-the-Movie-Spacecation-2024-1.jpg" group-title="หนังการ์ตูน" ,Big City Greens the Movie Spacecation (2024)
 https://main.24playerhd.com/newplaylist/117d1cf62f88a333ba25950e/117d1cf62f88a333ba25950e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Ultraman-Rising-2024-อุลตร้าแมน-ผงาด-1.jpg" group-title="หนังการ์ตูน" ,Ultraman Rising (2024) อุลตร้าแมน ผงาด
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Ultraman-Rising-2024-อุลตร้าแมน-ผงาด-1.jpg" group-title="หนังการ์ตูน" ,Ultraman Rising (2024) อุลตร้าแมน ผงาด
 https://main.24playerhd.com/newplaylist/9ac5301a3c6974578b5b0b05/9ac5301a3c6974578b5b0b05.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief-2024-ยอดนักสืบจิ๋วโคนัน-vs-จอมโจรคิด.jpg" group-title="หนังการ์ตูน" ,Detective Conan vs Kid the Phantom Thief (2024) ยอดนักสืบจิ๋วโคนัน vs จอมโจรคิด
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Detective-Conan-vs-Kid-the-Phantom-Thief-2024-ยอดนักสืบจิ๋วโคนัน-vs-จอมโจรคิด.jpg" group-title="หนังการ์ตูน" ,Detective Conan vs Kid the Phantom Thief (2024) ยอดนักสืบจิ๋วโคนัน vs จอมโจรคิด
 https://main.24playerhd.com/newplaylist/c0f415e124182dff9e23b7bc/c0f415e124182dff9e23b7bc.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Spy-x-Family-Code-White-2023-สปาย-x-แฟมิลี-โค้ด-ไวท์-1.jpg" group-title="หนังการ์ตูน" ,Spy x Family Code White (2023) สปาย x แฟมิลี โค้ด ไวท์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Spy-x-Family-Code-White-2023-สปาย-x-แฟมิลี-โค้ด-ไวท์-1.jpg" group-title="หนังการ์ตูน" ,Spy x Family Code White (2023) สปาย x แฟมิลี โค้ด ไวท์
 https://main.24playerhd.com/newplaylist/c11d458faa6804ecf70a84ea/c11d458faa6804ecf70a84ea.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024-1.jpg" group-title="หนังการ์ตูน" ,Mobile Suit Gundam SEED FREEDOM (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Mobile-Suit-Gundam-SEED-FREEDOM-2024-1.jpg" group-title="หนังการ์ตูน" ,Mobile Suit Gundam SEED FREEDOM (2024)
 https://main.24playerhd.com/newplaylist/22ad4686a94239d5538e48cb/22ad4686a94239d5538e48cb.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Macross-Delta-Zettai-Live-2021.jpg" group-title="หนังการ์ตูน" ,Macross Delta Zettai Live (2021)
 https://main.24playerhd.com/newplaylist/eb3c2b3326499a15898fb3ed/eb3c2b3326499a15898fb3ed.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Digimon-Adventure-02-The-Beginning-2023.jpg" group-title="หนังการ์ตูน" ,Digimon Adventure 02 The Beginning (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Digimon-Adventure-02-The-Beginning-2023.jpg" group-title="หนังการ์ตูน" ,Digimon Adventure 02 The Beginning (2023)
 https://main.24playerhd.com/newplaylist/f4323721d36c74fcb4ee6c36/f4323721d36c74fcb4ee6c36.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/06/Baki-Hanma-VS-Kengan-Ashura-2024-ฮันมะ-บากิ-ปะทะ-กำปั้นอสูร-โทคะตะ.jpg" group-title="หนังการ์ตูน" ,Baki Hanma VS Kengan Ashura (2024) ฮันมะ บากิ ปะทะ กำปั้นอสูร โทคะตะ
 https://main.24playerhd.com/newplaylist/921d6b66bd70543cc5cd018f/921d6b66bd70543cc5cd018f.m3u8
-           
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Blue-Giant-2023-เป่าฝันให้เต็มฟ้า.jpg" group-title="หนังการ์ตูน" ,Blue Giant (2023) เป่าฝันให้เต็มฟ้า
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Blue-Giant-2023-เป่าฝันให้เต็มฟ้า.jpg" group-title="หนังการ์ตูน" ,Blue Giant (2023) เป่าฝันให้เต็มฟ้า
 https://main.24playerhd.com/newplaylist/5d6203f1bf93386274d0827b/5d6203f1bf93386274d0827b.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/My-Oni-Girl-2024-มาย-โอนิ-เกิร์ล-1.jpg" group-title="หนังการ์ตูน" ,My Oni Girl (2024) มาย โอนิ เกิร์ล
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/My-Oni-Girl-2024-มาย-โอนิ-เกิร์ล-1.jpg" group-title="หนังการ์ตูน" ,My Oni Girl (2024) มาย โอนิ เกิร์ล
 https://main.24playerhd.com/newplaylist/e0cacd7e46f5722cc6707750/e0cacd7e46f5722cc6707750.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-1.jpg" group-title="หนังการ์ตูน" ,Kung Fu Panda 4 (2024) กังฟูแพนด้า 4
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-4-2024-กังฟูแพนด้า-4-1.jpg" group-title="หนังการ์ตูน" ,Kung Fu Panda 4 (2024) กังฟูแพนด้า 4
 https://main.24playerhd.com/newplaylist/946eb89924236cf4aa706a05/946eb89924236cf4aa706a05.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Finding-Nemo-2003-นีโม.ปลาเล็ก-หัวใจโต๊.โต.jpg" group-title="หนังการ์ตูน" ,Finding Nemo (2003) นีโม...ปลาเล็ก หัวใจโต๊...โต
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/05/Finding-Nemo-2003-นีโม.ปลาเล็ก-หัวใจโต๊.โต.jpg" group-title="หนังการ์ตูน" ,Finding Nemo (2003) นีโม...ปลาเล็ก หัวใจโต๊...โต
 https://main.24playerhd.com/newplaylist/2efb99be5ddabfa686eaf71a/2efb99be5ddabfa686eaf71a.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Doraemon-Nobitas-Sky-Utopia-2023-ฟากฟ้าแห่งยูโทเปียของโนบิตะ.jpg" group-title="หนังการ์ตูน" ,Doraemon Nobita's Sky Utopia (2023) ฟากฟ้าแห่งยูโทเปียของโนบิตะ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Doraemon-Nobitas-Sky-Utopia-2023-ฟากฟ้าแห่งยูโทเปียของโนบิตะ.jpg" group-title="หนังการ์ตูน" ,Doraemon Nobita's Sky Utopia (2023) ฟากฟ้าแห่งยูโทเปียของโนบิตะ
 https://main.24playerhd.com/newplaylist/9c5b599de8a69036b9534c97/9c5b599de8a69036b9534c97.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024.jpg" group-title="หนังการ์ตูน" ,Strawberry Shortcake's Spring Spectacular (2024)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Spring-Spectacular-2024.jpg" group-title="หนังการ์ตูน" ,Strawberry Shortcake's Spring Spectacular (2024)
 https://main.24playerhd.com/newplaylist/c45d34574638c45fbcd116fc/c45d34574638c45fbcd116fc.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Perfect-Holiday-2023.jpg" group-title="หนังการ์ตูน" ,Strawberry Shortcake's Perfect Holiday (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/04/Strawberry-Shortcakes-Perfect-Holiday-2023.jpg" group-title="หนังการ์ตูน" ,Strawberry Shortcake's Perfect Holiday (2023)
 https://main.24playerhd.com/newplaylist/f4e74e558953198ff03faba4/f4e74e558953198ff03faba4.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Strawberry-Shortcake-and-the-Beast-of-Berry-Bog-2023.jpg" group-title="หนังการ์ตูน" ,Strawberry Shortcake and the Beast of Berry Bog (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Strawberry-Shortcake-and-the-Beast-of-Berry-Bog-2023.jpg" group-title="หนังการ์ตูน" ,Strawberry Shortcake and the Beast of Berry Bog (2023)
 https://main.24playerhd.com/newplaylist/dc33361287b0b987d8c6cc96/dc33361287b0b987d8c6cc96.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Digimon-Adventure-Last-Evolution-Kizuna-2020-ดิจิมอน-แอดเวนเจอร์-ลาสต์-อีโวลูชั่น-คิซึนะ.jpg" group-title="หนังการ์ตูน" ,Digimon Adventure Last Evolution Kizuna (2020) ดิจิมอน แอดเวนเจอร์ ลาสต์ อีโวลูชั่น คิซึนะ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Digimon-Adventure-Last-Evolution-Kizuna-2020-ดิจิมอน-แอดเวนเจอร์-ลาสต์-อีโวลูชั่น-คิซึนะ.jpg" group-title="หนังการ์ตูน" ,Digimon Adventure Last Evolution Kizuna (2020) ดิจิมอน แอดเวนเจอร์ ลาสต์ อีโวลูชั่น คิซึนะ
 https://main.24playerhd.com/newplaylist/1fe26496fea7ded773572b40/1fe26496fea7ded773572b40.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Miraculous-Ladybug-Cat-Noir-The-Movie-2023-ฮีโร่มหัศจรรย์-เลดี้บัก-และ-แคทนัวร์.jpg" group-title="หนังการ์ตูน" ,Miraculous Ladybug & Cat Noir The Movie (2023) ฮีโร่มหัศจรรย์ เลดี้บัก และ แคทนัวร์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Miraculous-Ladybug-Cat-Noir-The-Movie-2023-ฮีโร่มหัศจรรย์-เลดี้บัก-และ-แคทนัวร์.jpg" group-title="หนังการ์ตูน" ,Miraculous Ladybug & Cat Noir The Movie (2023) ฮีโร่มหัศจรรย์ เลดี้บัก และ แคทนัวร์
 https://main.24playerhd.com/newplaylist/7cf3dde4f8bf58d141a71013/7cf3dde4f8bf58d141a71013.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/PreCure-All-Stars-F-2023-มหัศจรรย์สาวน้อย-พริตตี้เคียว-ออลสตาร์-เอฟ.jpg" group-title="หนังการ์ตูน" ,PreCure All Stars F (2023) มหัศจรรย์สาวน้อย พริตตี้เคียว ออลสตาร์ เอฟ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/PreCure-All-Stars-F-2023-มหัศจรรย์สาวน้อย-พริตตี้เคียว-ออลสตาร์-เอฟ.jpg" group-title="หนังการ์ตูน" ,PreCure All Stars F (2023) มหัศจรรย์สาวน้อย พริตตี้เคียว ออลสตาร์ เอฟ
 https://main.24playerhd.com/newplaylist/05cef1e1bbd61f447820543e/05cef1e1bbd61f447820543e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่.jpg" group-title="หนังการ์ตูน" ,The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Casagrandes-Movie-2024-เดอะ-คาซากรานเดส์-มูฟวี่.jpg" group-title="หนังการ์ตูน" ,The Casagrandes Movie (2024) เดอะ คาซากรานเดส์ มูฟวี่
 https://main.24playerhd.com/newplaylist/923fad2900aa105fc77a4247/923fad2900aa105fc77a4247.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Barbie-and-Stacie-to-the-Rescue-2024.jpg" group-title="หนังการ์ตูน" ,Barbie and Stacie to the Rescue (2024)
 https://main.24playerhd.com/newplaylist/8155d49501387e62c38aa36e/8155d49501387e62c38aa36e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Snail-and-the-Whale-2019-หอยทากกับวาฬ.jpg" group-title="หนังการ์ตูน" ,The Snail and the Whale (2019) หอยทากกับวาฬ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/The-Snail-and-the-Whale-2019-หอยทากกับวาฬ.jpg" group-title="หนังการ์ตูน" ,The Snail and the Whale (2019) หอยทากกับวาฬ
 https://main.24playerhd.com/newplaylist/31e9e045a3f7062ba88a9aca/31e9e045a3f7062ba88a9aca.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-3-2016-กังฟูแพนด้า-3-1.jpg" group-title="หนังการ์ตูน" ,Kung Fu Panda 3 (2016) กังฟูแพนด้า 3
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-3-2016-กังฟูแพนด้า-3-1.jpg" group-title="หนังการ์ตูน" ,Kung Fu Panda 3 (2016) กังฟูแพนด้า 3
 https://main.24playerhd.com/newplaylist/9a23e1713a10c509cc412265/9a23e1713a10c509cc412265.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-2-2011-กังฟูแพนด้า-จอมยุทธ์พลิกล็อค-ช็อคยุทธภพ-2-1.jpg" group-title="หนังการ์ตูน" ,Kung Fu Panda 2 (2011) กังฟูแพนด้า จอมยุทธ์พลิกล็อค ช็อคยุทธภพ 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-2-2011-กังฟูแพนด้า-จอมยุทธ์พลิกล็อค-ช็อคยุทธภพ-2-1.jpg" group-title="หนังการ์ตูน" ,Kung Fu Panda 2 (2011) กังฟูแพนด้า จอมยุทธ์พลิกล็อค ช็อคยุทธภพ 2
 https://main.24playerhd.com/newplaylist/1fb62f7f7b8327501c88fbf4/1fb62f7f7b8327501c88fbf4.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-2008-กังฟูแพนด้า-จอมยุทธ์พลิกล็อค-ช็อคยุทธภพ-1.jpg" group-title="หนังการ์ตูน" ,Kung Fu Panda (2008) กังฟูแพนด้า จอมยุทธ์พลิกล็อค ช็อคยุทธภพ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Kung-Fu-Panda-2008-กังฟูแพนด้า-จอมยุทธ์พลิกล็อค-ช็อคยุทธภพ-1.jpg" group-title="หนังการ์ตูน" ,Kung Fu Panda (2008) กังฟูแพนด้า จอมยุทธ์พลิกล็อค ช็อคยุทธภพ
 https://main.24playerhd.com/newplaylist/565c37f873cf0199fc4c893c/565c37f873cf0199fc4c893c.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Crayon-Shin-chan-Movie-30-Mononoke-Ninja-Chinpuuden-2023-ตอน-นินจาคาถาวายุอลเวง.jpg" group-title="หนังการ์ตูน" ,Crayon Shin-chan Movie 30 Mononoke Ninja Chinpuuden (2023) ตอน นินจาคาถาวายุอลเวง
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Crayon-Shin-chan-Movie-30-Mononoke-Ninja-Chinpuuden-2023-ตอน-นินจาคาถาวายุอลเวง.jpg" group-title="หนังการ์ตูน" ,Crayon Shin-chan Movie 30 Mononoke Ninja Chinpuuden (2023) ตอน นินจาคาถาวายุอลเวง
 https://main.24playerhd.com/newplaylist/06eee8f970fa5442e69940e3/06eee8f970fa5442e69940e3.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Mobile-Suit-Gundam-Cucuruz-Doans-Island-2022.jpg" group-title="หนังการ์ตูน" ,Mobile Suit Gundam Cucuruz Doan's Island (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/03/Mobile-Suit-Gundam-Cucuruz-Doans-Island-2022.jpg" group-title="หนังการ์ตูน" ,Mobile Suit Gundam Cucuruz Doan's Island (2022)
 https://main.24playerhd.com/newplaylist/709e36e53930584189162fc3/709e36e53930584189162fc3.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Migration-2023-ครอบครัวเป็ดผจญภัย.jpg" group-title="หนังการ์ตูน" ,Migration (2023) ครอบครัวเป็ดผจญภัย
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Migration-2023-ครอบครัวเป็ดผจญภัย.jpg" group-title="หนังการ์ตูน" ,Migration (2023) ครอบครัวเป็ดผจญภัย
 https://main.24playerhd.com/newplaylist/ed963f0b1b96c4527c7fb86e/ed963f0b1b96c4527c7fb86e.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Snoopy-Presents-Welcome-Home-Franklin-2024.jpg" group-title="หนังการ์ตูน" ,Snoopy Presents Welcome Home Franklin (2024)
 https://main.24playerhd.com/newplaylist/4333e44ca79a3baf1228ad80/4333e44ca79a3baf1228ad80.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Brave-2012-นักรบสาวหัวใจมหากาฬ.jpg" group-title="หนังการ์ตูน" ,Brave (2012) นักรบสาวหัวใจมหากาฬ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Brave-2012-นักรบสาวหัวใจมหากาฬ.jpg" group-title="หนังการ์ตูน" ,Brave (2012) นักรบสาวหัวใจมหากาฬ
 https://main.24playerhd.com/newplaylist/65fefd2aa54eef09ad1d1956/65fefd2aa54eef09ad1d1956.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์.jpg" group-title="หนังการ์ตูน" ,Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Mantra-Warrior-The-Legend-of-the-Eight-Moons-2024-นักรบมนตรา-ตำนานแปดดวงจันทร์.jpg" group-title="หนังการ์ตูน" ,Mantra Warrior The Legend of the Eight Moons (2024) นักรบมนตรา ตำนานแปดดวงจันทร์
 https://main.24playerhd.com/newplaylist/b5ddea6f131bc716037fdf35/b5ddea6f131bc716037fdf35.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Stand-by-Me-Doraemon-2-2020-โดราเอมอน-เพื่อนกันตลอดไป-2.jpg" group-title="หนังการ์ตูน" ,Stand by Me Doraemon 2 (2020) โดราเอมอน เพื่อนกันตลอดไป 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Stand-by-Me-Doraemon-2-2020-โดราเอมอน-เพื่อนกันตลอดไป-2.jpg" group-title="หนังการ์ตูน" ,Stand by Me Doraemon 2 (2020) โดราเอมอน เพื่อนกันตลอดไป 2
 https://main.24playerhd.com/newplaylist/b2c58e58be7382e388dad7f4/b2c58e58be7382e388dad7f4.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Stand-by-Me-Doraemon-2014-โดราเอมอน-เพื่อนกันตลอดไป.jpg" group-title="หนังการ์ตูน" ,Stand by Me Doraemon (2014) โดราเอมอน เพื่อนกันตลอดไป
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Stand-by-Me-Doraemon-2014-โดราเอมอน-เพื่อนกันตลอดไป.jpg" group-title="หนังการ์ตูน" ,Stand by Me Doraemon (2014) โดราเอมอน เพื่อนกันตลอดไป
 https://main.24playerhd.com/newplaylist/f7734e5cecd85bebad1f2217/f7734e5cecd85bebad1f2217.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-3.jpg" group-title="หนังการ์ตูน" ,Trolls Band Together (2023) โทรลล์ส 3
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Trolls-Band-Together-2023-โทรลล์ส-3.jpg" group-title="หนังการ์ตูน" ,Trolls Band Together (2023) โทรลล์ส 3
 https://main.24playerhd.com/newplaylist/6822c64a7133659df524509b/6822c64a7133659df524509b.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Orion-and-the-Dark-2024-โอไรออนท่องแดนมหัศจรรย์รัตติกาล.jpg" group-title="หนังการ์ตูน" ,Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/02/Orion-and-the-Dark-2024-โอไรออนท่องแดนมหัศจรรย์รัตติกาล.jpg" group-title="หนังการ์ตูน" ,Orion and the Dark (2024) โอไรออนท่องแดนมหัศจรรย์รัตติกาล
 https://main.24playerhd.com/newplaylist/9c3855b462eaa64e3e88e112/9c3855b462eaa64e3e88e112.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Wish-2023-พรมหัศจรรย์.jpg" group-title="หนังการ์ตูน" ,Wish (2023) พรมหัศจรรย์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Wish-2023-พรมหัศจรรย์.jpg" group-title="หนังการ์ตูน" ,Wish (2023) พรมหัศจรรย์
 https://main.24playerhd.com/newplaylist/a9ddd5e32d23af3afeed34c2/a9ddd5e32d23af3afeed34c2.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Tangled-Ever-After-2012-ราพันเซลตอนพิเศษ.jpg" group-title="หนังการ์ตูน" ,Tangled Ever After (2012) ราพันเซลตอนพิเศษ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Tangled-Ever-After-2012-ราพันเซลตอนพิเศษ.jpg" group-title="หนังการ์ตูน" ,Tangled Ever After (2012) ราพันเซลตอนพิเศษ
 https://main.24playerhd.com/newplaylist/2e7a1971c0ef57bd08c5b7bb/2e7a1971c0ef57bd08c5b7bb.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Tangled-2010-ราพันเซล-เจ้าหญิงผมยาวกับโจรซ่าจอมแสบ.jpg" group-title="หนังการ์ตูน" ,Tangled (2010) ราพันเซล เจ้าหญิงผมยาวกับโจรซ่าจอมแสบ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Tangled-2010-ราพันเซล-เจ้าหญิงผมยาวกับโจรซ่าจอมแสบ.jpg" group-title="หนังการ์ตูน" ,Tangled (2010) ราพันเซล เจ้าหญิงผมยาวกับโจรซ่าจอมแสบ
 https://main.24playerhd.com/newplaylist/0d3af8e0a4e3f3d8b50f7673/0d3af8e0a4e3f3d8b50f7673.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Maboroshi-2024-มาโบโรชิ.jpg" group-title="หนังการ์ตูน" ,Maboroshi (2024) มาโบโรชิ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Maboroshi-2024-มาโบโรชิ.jpg" group-title="หนังการ์ตูน" ,Maboroshi (2024) มาโบโรชิ
 https://main.24playerhd.com/newplaylist/9c4aa56535c1f286a3b9d352/9c4aa56535c1f286a3b9d352.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Mary-and-The-Witchs-Flower-2017-แมรี่ผจญแดนแม่มด.jpg" group-title="หนังการ์ตูน" ,Mary and The Witch's Flower (2017) แมรี่ผจญแดนแม่มด
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Mary-and-The-Witchs-Flower-2017-แมรี่ผจญแดนแม่มด.jpg" group-title="หนังการ์ตูน" ,Mary and The Witch's Flower (2017) แมรี่ผจญแดนแม่มด
 https://main.24playerhd.com/newplaylist/c6f78a841d49e6e8ddecf434/c6f78a841d49e6e8ddecf434.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Gridman-Universe-2023-กริดแมนยูนิเวิร์ส.jpg" group-title="หนังการ์ตูน" ,Gridman Universe (2023) กริดแมนยูนิเวิร์ส
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2024/01/Gridman-Universe-2023-กริดแมนยูนิเวิร์ส.jpg" group-title="หนังการ์ตูน" ,Gridman Universe (2023) กริดแมนยูนิเวิร์ส
 https://main.24playerhd.com/newplaylist/0634f3f1ce20489dedacb9f9/0634f3f1ce20489dedacb9f9.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Detective-Conan-Movie-26-Black-Iron-Submarine-2023-ยอดนักสืบจิ๋วโคนัน-เดอะมูฟวี่-26-มฤตยูใต้น้ำทมิฬ.jpg" group-title="หนังการ์ตูน" ,Detective Conan Movie 26 Black Iron Submarine (2023) ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 26 มฤตยูใต้น้ำทมิฬ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Detective-Conan-Movie-26-Black-Iron-Submarine-2023-ยอดนักสืบจิ๋วโคนัน-เดอะมูฟวี่-26-มฤตยูใต้น้ำทมิฬ.jpg" group-title="หนังการ์ตูน" ,Detective Conan Movie 26 Black Iron Submarine (2023) ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 26 มฤตยูใต้น้ำทมิฬ
 https://main.24playerhd.com/newplaylist/c40f09e26994f5a6d37a445b/c40f09e26994f5a6d37a445b.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Mulan-Princess-Warrior-2020-มู่หลาน-เจ้าหญิงนักรบ.jpg" group-title="หนังการ์ตูน" ,Mulan Princess Warrior (2020) มู่หลาน เจ้าหญิงนักรบ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Mulan-Princess-Warrior-2020-มู่หลาน-เจ้าหญิงนักรบ.jpg" group-title="หนังการ์ตูน" ,Mulan Princess Warrior (2020) มู่หลาน เจ้าหญิงนักรบ
 https://main.24playerhd.com/newplaylist/e8d0745292a8100d8fc86ad5/e8d0745292a8100d8fc86ad5.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Suzume-2022-การผนึกประตูของซุซุเมะ.jpg" group-title="หนังการ์ตูน" ,Suzume (2022) การผนึกประตูของซุซุเมะ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Suzume-2022-การผนึกประตูของซุซุเมะ.jpg" group-title="หนังการ์ตูน" ,Suzume (2022) การผนึกประตูของซุซุเมะ
 https://main.24playerhd.com/newplaylist/e459a3002accbda5667b8352/e459a3002accbda5667b8352.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/The-Lion-King-2019-เดอะ-ไลอ้อน-คิง.jpg" group-title="หนังการ์ตูน" ,The Lion King (2019) เดอะ ไลอ้อน คิง
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/The-Lion-King-2019-เดอะ-ไลอ้อน-คิง.jpg" group-title="หนังการ์ตูน" ,The Lion King (2019) เดอะ ไลอ้อน คิง
 https://main.24playerhd.com/newplaylist/ad6e7e3d09cdd2469cfad4a0/ad6e7e3d09cdd2469cfad4a0.m3u8
-
-          
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Chicken-Run-Dawn-of-the-Nugget-2023-ชิคเก้นรัน-วิ่ง.สู้.กระต๊าก-สนั่นโลก-2.jpg" group-title="หนังการ์ตูน" ,Chicken Run Dawn of the Nugget (2023) ชิคเก้นรัน วิ่ง...สู้...กระต๊าก สนั่นโลก 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Chicken-Run-Dawn-of-the-Nugget-2023-ชิคเก้นรัน-วิ่ง.สู้.กระต๊าก-สนั่นโลก-2.jpg" group-title="หนังการ์ตูน" ,Chicken Run Dawn of the Nugget (2023) ชิคเก้นรัน วิ่ง...สู้...กระต๊าก สนั่นโลก 2
 https://main.24playerhd.com/newplaylist/b3f9572dc81ade099873411e/b3f9572dc81ade099873411e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Merry-Little-Batman-2023.jpg" group-title="หนังการ์ตูน" ,Merry Little Batman (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/Merry-Little-Batman-2023.jpg" group-title="หนังการ์ตูน" ,Merry Little Batman (2023)
 https://main.24playerhd.com/newplaylist/d71677ccc6206d87ea9591de/d71677ccc6206d87ea9591de.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/A-Bugs-Life-1998-ตัวบั๊กส์-หัวใจไม่บั๊กส์.jpg" group-title="หนังการ์ตูน" ,A Bug's Life (1998) ตัวบั๊กส์ หัวใจไม่บั๊กส์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/A-Bugs-Life-1998-ตัวบั๊กส์-หัวใจไม่บั๊กส์.jpg" group-title="หนังการ์ตูน" ,A Bug's Life (1998) ตัวบั๊กส์ หัวใจไม่บั๊กส์
 https://main.24playerhd.com/newplaylist/b7fda0252b5561e8c18b65c5/b7fda0252b5561e8c18b65c5.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/The-Velveteen-Rabbit-2023.jpg" group-title="หนังการ์ตูน" ,The Velveteen Rabbit (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/The-Velveteen-Rabbit-2023.jpg" group-title="หนังการ์ตูน" ,The Velveteen Rabbit (2023)
 https://main.24playerhd.com/newplaylist/c3a236cc565a68da3e5118c1/c3a236cc565a68da3e5118c1.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/The-Bad-Guys-A-Very-Bad-Holiday-2023-วายร้ายพันธุ์ดี-ฉลองเทศกาลป่วน.jpg" group-title="หนังการ์ตูน" ,The Bad Guys A Very Bad Holiday (2023) วายร้ายพันธุ์ดี ฉลองเทศกาลป่วน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/12/The-Bad-Guys-A-Very-Bad-Holiday-2023-วายร้ายพันธุ์ดี-ฉลองเทศกาลป่วน.jpg" group-title="หนังการ์ตูน" ,The Bad Guys A Very Bad Holiday (2023) วายร้ายพันธุ์ดี ฉลองเทศกาลป่วน
 https://main.24playerhd.com/newplaylist/b73bc70b4739b8ee9f7ec948/b73bc70b4739b8ee9f7ec948.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไมตี้-มูฟวี่.jpg" group-title="หนังการ์ตูน" ,PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี่
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/PAW-Patrol-The-Mighty-Movie-2023-ขบวนการเจ้าตูบสี่ขา-เดอะ-ไมตี้-มูฟวี่.jpg" group-title="หนังการ์ตูน" ,PAW Patrol The Mighty Movie (2023) ขบวนการเจ้าตูบสี่ขา เดอะ ไมตี้ มูฟวี่
 https://main.24playerhd.com/newplaylist/a31f145ef5c52e1e7f0e95e5/a31f145ef5c52e1e7f0e95e5.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/New-Gods-Yang-Jian-2022-หยางเจี่ยน-เทพสามตา-มหาศึกผนึกเขาบงกช.jpg" group-title="หนังการ์ตูน" ,New Gods Yang Jian (2022) หยางเจี่ยน เทพสามตา มหาศึกผนึกเขาบงกช
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/New-Gods-Yang-Jian-2022-หยางเจี่ยน-เทพสามตา-มหาศึกผนึกเขาบงกช.jpg" group-title="หนังการ์ตูน" ,New Gods Yang Jian (2022) หยางเจี่ยน เทพสามตา มหาศึกผนึกเขาบงกช
 https://main.24playerhd.com/newplaylist/93b3670d5c72ae9b1563f366/93b3670d5c72ae9b1563f366.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Paws-of-Fury-The-Legend-of-Hank-2022.jpg" group-title="หนังการ์ตูน" ,Paws of Fury The Legend of Hank (2022) อุ้งเท้าพิโรธ ตำนานของแฮ้งค์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Paws-of-Fury-The-Legend-of-Hank-2022.jpg" group-title="หนังการ์ตูน" ,Paws of Fury The Legend of Hank (2022) อุ้งเท้าพิโรธ ตำนานของแฮ้งค์
 https://main.24playerhd.com/newplaylist/0002b61d879f347ff98e6160/0002b61d879f347ff98e6160.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Earwig-and-the-Witch-2020.jpg" group-title="หนังการ์ตูน" ,Earwig and the Witch (2020)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Earwig-and-the-Witch-2020.jpg" group-title="หนังการ์ตูน" ,Earwig and the Witch (2020)
 https://main.24playerhd.com/newplaylist/605c254b88b67a4bbfc728cf/605c254b88b67a4bbfc728cf.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Pokemon-the-Movie-Secrets-of-the-Jungle-2020-โปเกมอน-เดอะ-มูฟวี่-ความลับของป่าลึก.jpg" group-title="หนังการ์ตูน" ,Pokémon the Movie Secrets of the Jungle (2020) โปเกมอน เดอะ มูฟวี่ ความลับของป่าลึก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Pokemon-the-Movie-Secrets-of-the-Jungle-2020-โปเกมอน-เดอะ-มูฟวี่-ความลับของป่าลึก.jpg" group-title="หนังการ์ตูน" ,Pokémon the Movie Secrets of the Jungle (2020) โปเกมอน เดอะ มูฟวี่ ความลับของป่าลึก
 https://main.24playerhd.com/newplaylist/dfa0edfef1efc5c25ce11ef7/dfa0edfef1efc5c25ce11ef7.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Tonari-no-Totoro-1988-โทโทโร่เพื่อนรัก.jpg" group-title="หนังการ์ตูน" ,Tonari no Totoro (1988) โทโทโร่เพื่อนรัก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/Tonari-no-Totoro-1988-โทโทโร่เพื่อนรัก.jpg" group-title="หนังการ์ตูน" ,Tonari no Totoro (1988) โทโทโร่เพื่อนรัก
 https://main.24playerhd.com/newplaylist/8c745dd0d953876128a7e7a6/8c745dd0d953876128a7e7a6.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/The-Swan-Princess-Far-Longer-Than-Forever-2023-เจ้าหญิงหงส์ขาว-ตอน-ตราบนานชั่วกัลปาวสาน.jpg" group-title="หนังการ์ตูน" ,The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/11/The-Swan-Princess-Far-Longer-Than-Forever-2023-เจ้าหญิงหงส์ขาว-ตอน-ตราบนานชั่วกัลปาวสาน.jpg" group-title="หนังการ์ตูน" ,The Swan Princess Far Longer Than Forever (2023) เจ้าหญิงหงส์ขาว ตอน ตราบนานชั่วกัลปาวสาน
 https://main.24playerhd.com/newplaylist/ae50989047b0f53608c4d2f9/ae50989047b0f53608c4d2f9.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Lonely-Castle-in-the-Mirror-2022-หมาป่าโดดเดี่ยว-ปราสาทเดียวดายในกระจก.jpg" group-title="หนังการ์ตูน" ,Lonely Castle in the Mirror (2022) หมาป่าโดดเดี่ยว ปราสาทเดียวดายในกระจก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Lonely-Castle-in-the-Mirror-2022-หมาป่าโดดเดี่ยว-ปราสาทเดียวดายในกระจก.jpg" group-title="หนังการ์ตูน" ,Lonely Castle in the Mirror (2022) หมาป่าโดดเดี่ยว ปราสาทเดียวดายในกระจก
 https://main.24playerhd.com/newplaylist/7a4536f886b67234d17d95bb/7a4536f886b67234d17d95bb.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Weathering-with-You-2019-ฤดูฝัน-ฉันมีเธอ.jpg" group-title="หนังการ์ตูน" ,Weathering with You (2019) ฤดูฝัน ฉันมีเธอ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Weathering-with-You-2019-ฤดูฝัน-ฉันมีเธอ.jpg" group-title="หนังการ์ตูน" ,Weathering with You (2019) ฤดูฝัน ฉันมีเธอ
 https://main.24playerhd.com/newplaylist/fb8e97aeb58407ab4f5904e9/fb8e97aeb58407ab4f5904e9.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Your-Name-2016-หลับตาฝัน-ถึงชื่อเธอ.jpg" group-title="หนังการ์ตูน" ,Your Name (2016) หลับตาฝัน ถึงชื่อเธอ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Your-Name-2016-หลับตาฝัน-ถึงชื่อเธอ.jpg" group-title="หนังการ์ตูน" ,Your Name (2016) หลับตาฝัน ถึงชื่อเธอ
 https://main.24playerhd.com/newplaylist/da60e7f09e1f3fd42f223769/da60e7f09e1f3fd42f223769.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Castle-in-the-Sky-1986-ลาพิวต้า-พลิกตำนานเหนือเวหา.jpg" group-title="หนังการ์ตูน" ,Castle in the Sky (1986) ลาพิวต้า พลิกตำนานเหนือเวหา
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/10/Castle-in-the-Sky-1986-ลาพิวต้า-พลิกตำนานเหนือเวหา.jpg" group-title="หนังการ์ตูน" ,Castle in the Sky (1986) ลาพิวต้า พลิกตำนานเหนือเวหา
 https://main.24playerhd.com/newplaylist/77736d4d963e57be260e3164/77736d4d963e57be260e3164.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Hotel-Transylvania-4-Transformania-2022-โรงแรมผี-หนีไปพักร้อน-4-เปลี่ยนร่างไปป่วนโลก.jpg" group-title="หนังการ์ตูน" ,Hotel Transylvania 4 Transformania (2022) โรงแรมผี หนีไปพักร้อน 4 เปลี่ยนร่างไปป่วนโลก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Hotel-Transylvania-4-Transformania-2022-โรงแรมผี-หนีไปพักร้อน-4-เปลี่ยนร่างไปป่วนโลก.jpg" group-title="หนังการ์ตูน" ,Hotel Transylvania 4 Transformania (2022) โรงแรมผี หนีไปพักร้อน 4 เปลี่ยนร่างไปป่วนโลก
 https://main.24playerhd.com/newplaylist/bb6c44ef6eb533fbc251fa0f/bb6c44ef6eb533fbc251fa0f.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Hotel-Transylvania-3-2018-โรงแรมผีหนี-ไปพักร้อน-3.jpg" group-title="หนังการ์ตูน" ,Hotel Transylvania 3 Summer Vacation (2018) โรงแรมผี หนีไปพักร้อน 3 ซัมเมอร์หฤหรรษ์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Hotel-Transylvania-3-2018-โรงแรมผีหนี-ไปพักร้อน-3.jpg" group-title="หนังการ์ตูน" ,Hotel Transylvania 3 Summer Vacation (2018) โรงแรมผี หนีไปพักร้อน 3 ซัมเมอร์หฤหรรษ์
 https://main.24playerhd.com/newplaylist/710f91f2d3afa4a124b3ebf4/710f91f2d3afa4a124b3ebf4.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Hotel-Transylvania-2-2015-โรงแรมผี-หนีไปพักร้อน-2.jpg" group-title="หนังการ์ตูน" ,Hotel Transylvania 2 (2015) โรงแรมผี หนีไปพักร้อน 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Hotel-Transylvania-2-2015-โรงแรมผี-หนีไปพักร้อน-2.jpg" group-title="หนังการ์ตูน" ,Hotel Transylvania 2 (2015) โรงแรมผี หนีไปพักร้อน 2
 https://main.24playerhd.com/newplaylist/67f852c0654cb9fd4385e31a/67f852c0654cb9fd4385e31a.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Hotel-Transylvania-2012-โรงแรมผี-หนีไปพักร้อน.jpg" group-title="หนังการ์ตูน" ,Hotel Transylvania (2012) โรงแรมผี หนีไปพักร้อน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Hotel-Transylvania-2012-โรงแรมผี-หนีไปพักร้อน.jpg" group-title="หนังการ์ตูน" ,Hotel Transylvania (2012) โรงแรมผี หนีไปพักร้อน
 https://main.24playerhd.com/newplaylist/81ccd71cc495d07e18441420/81ccd71cc495d07e18441420.m3u8
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023-เต่านินจา-โกลาหลกลายพันธุ์.jpg" group-title="หนังการ์ตูน" ,Teenage Mutant Ninja Turtles Mutant Mayhem (2023) เต่านินจา โกลาหลกลายพันธุ์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Teenage-Mutant-Ninja-Turtles-Mutant-Mayhem-2023-เต่านินจา-โกลาหลกลายพันธุ์.jpg" group-title="หนังการ์ตูน" ,Teenage Mutant Ninja Turtles Mutant Mayhem (2023) เต่านินจา โกลาหลกลายพันธุ์
 https://main.24playerhd.com/newplaylist/9f94abca53e8659c009f7210/9f94abca53e8659c009f7210.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-2022-ซอร์ด-อาร์ต-ออนไลน์-โปรเกรสซีฟ-สแกรโซแห่งสนธยาโศก.jpg" group-title="หนังการ์ตูน" ,Sword Art Online the Movie Progressive Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ สแกรโซแห่งสนธยาโศก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Sword-Art-Online-the-Movie-Progressive-Scherzo-of-Deep-Night-2022-ซอร์ด-อาร์ต-ออนไลน์-โปรเกรสซีฟ-สแกรโซแห่งสนธยาโศก.jpg" group-title="หนังการ์ตูน" ,Sword Art Online the Movie Progressive Scherzo of Deep Night (2022) ซอร์ด อาร์ต ออนไลน์ โปรเกรสซีฟ สแกรโซแห่งสนธยาโศก
 https://main.24playerhd.com/newplaylist/8b1b86cb2c7240990f800608/8b1b86cb2c7240990f800608.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/The-Legend-of-Muay-Thai-9-Satra-2018-9-ศาสตรา.jpg" group-title="หนังการ์ตูน" ,The Legend of Muay Thai 9 Satra (2018) 9 ศาสตรา
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/The-Legend-of-Muay-Thai-9-Satra-2018-9-ศาสตรา.jpg" group-title="หนังการ์ตูน" ,The Legend of Muay Thai 9 Satra (2018) 9 ศาสตรา
 https://main.24playerhd.com/newplaylist/01216bc43ef11e00ca487966/01216bc43ef11e00ca487966.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Carls-Date-2023-เดตของคาร์ล.jpg" group-title="หนังการ์ตูน" ,Carl's Date (2023) เดตของคาร์ล
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Carls-Date-2023-เดตของคาร์ล.jpg" group-title="หนังการ์ตูน" ,Carl's Date (2023) เดตของคาร์ล
 https://main.24playerhd.com/newplaylist/e3795d5749bfe1c670091b15/e3795d5749bfe1c670091b15.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Up-2009-ปู่ซ่าบ้าพลัง.jpg" group-title="หนังการ์ตูน" ,Up (2009) ปู่ซ่าบ้าพลัง
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Up-2009-ปู่ซ่าบ้าพลัง.jpg" group-title="หนังการ์ตูน" ,Up (2009) ปู่ซ่าบ้าพลัง
 https://main.24playerhd.com/newplaylist/cfd5d967d8cc27a292b240d2/cfd5d967d8cc27a292b240d2.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Elemental-2023-เมืองอลวนธาตุอลเวง.jpg" group-title="หนังการ์ตูน" ,Elemental (2023) เมืองอลวนธาตุอลเวง
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Elemental-2023-เมืองอลวนธาตุอลเวง.jpg" group-title="หนังการ์ตูน" ,Elemental (2023) เมืองอลวนธาตุอลเวง
 https://main.24playerhd.com/newplaylist/7681e28c9623adc0344c2166/7681e28c9623adc0344c2166.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Shark-Tale-2004-เรื่องของปลาจอมวุ่นชุลมุนป่วนสมุทร.jpg" group-title="หนังการ์ตูน" ,Shark Tale (2004) เรื่องของปลาจอมวุ่นชุลมุนป่วนสมุทร
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Shark-Tale-2004-เรื่องของปลาจอมวุ่นชุลมุนป่วนสมุทร.jpg" group-title="หนังการ์ตูน" ,Shark Tale (2004) เรื่องของปลาจอมวุ่นชุลมุนป่วนสมุทร
 https://main.24playerhd.com/newplaylist/cde46134014788f1230e48d2/cde46134014788f1230e48d2.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Tad-the-Lost-Explorer-and-the-Emerald-Tablet-2022.jpg" group-title="หนังการ์ตูน" ,Tad the Lost Explorer and the Emerald Tablet (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Tad-the-Lost-Explorer-and-the-Emerald-Tablet-2022.jpg" group-title="หนังการ์ตูน" ,Tad the Lost Explorer and the Emerald Tablet (2022)
 https://main.24playerhd.com/newplaylist/58fed1890a07bf6a635d18c7/58fed1890a07bf6a635d18c7.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Flushed-Away-2006-หนูไฮโซ-ขอเป็นฮีโร่สักวัน.jpg" group-title="หนังการ์ตูน" ,Flushed Away (2006) หนูไฮโซ ขอเป็นฮีโร่สักวัน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/09/Flushed-Away-2006-หนูไฮโซ-ขอเป็นฮีโร่สักวัน.jpg" group-title="หนังการ์ตูน" ,Flushed Away (2006) หนูไฮโซ ขอเป็นฮีโร่สักวัน
 https://main.24playerhd.com/newplaylist/98dc343d0659e969b931c2bd/98dc343d0659e969b931c2bd.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Ruby-Gillman-Teenage-Kraken-2023-รูบี้-สาวน้อยอสูรทะเล.jpg" group-title="หนังการ์ตูน" ,Ruby Gillman Teenage Kraken (2023) รูบี้ สาวน้อยอสูรทะเล
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Ruby-Gillman-Teenage-Kraken-2023-รูบี้-สาวน้อยอสูรทะเล.jpg" group-title="หนังการ์ตูน" ,Ruby Gillman Teenage Kraken (2023) รูบี้ สาวน้อยอสูรทะเล
 https://main.24playerhd.com/newplaylist/1ed08244f31061a1e4936e14/1ed08244f31061a1e4936e14.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Turbo-2013-เทอร์โบ-หอยทากจอมซิ่งสายฟ้า.jpg" group-title="หนังการ์ตูน" ,Turbo (2013) เทอร์โบ หอยทากจอมซิ่งสายฟ้า
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Turbo-2013-เทอร์โบ-หอยทากจอมซิ่งสายฟ้า.jpg" group-title="หนังการ์ตูน" ,Turbo (2013) เทอร์โบ หอยทากจอมซิ่งสายฟ้า
 https://main.24playerhd.com/newplaylist/508cbc5a4c79f7286df58eb6/508cbc5a4c79f7286df58eb6.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Snoopy-Presents-One-of-a-Kind-Marcie-2023.jpg" group-title="หนังการ์ตูน" ,Snoopy Presents One-of-a-Kind Marcie (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Snoopy-Presents-One-of-a-Kind-Marcie-2023.jpg" group-title="หนังการ์ตูน" ,Snoopy Presents One-of-a-Kind Marcie (2023)
 https://main.24playerhd.com/newplaylist/06b8747fb26cb59ff1a67898/06b8747fb26cb59ff1a67898.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Monkey-King-2023-พญาวานร.jpg" group-title="หนังการ์ตูน" ,The Monkey King (2023) พญาวานร
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Monkey-King-2023-พญาวานร.jpg" group-title="หนังการ์ตูน" ,The Monkey King (2023) พญาวานร
 https://main.24playerhd.com/newplaylist/19e67c64e4ee310141a43cca/19e67c64e4ee310141a43cca.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Penguin-Highway-2018-วันหนึ่งฉันเจอเพนกวิน.jpg" group-title="หนังการ์ตูน" ,Penguin Highway (2018) วันหนึ่งฉันเจอเพนกวิน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Penguin-Highway-2018-วันหนึ่งฉันเจอเพนกวิน.jpg" group-title="หนังการ์ตูน" ,Penguin Highway (2018) วันหนึ่งฉันเจอเพนกวิน
 https://main.24playerhd.com/newplaylist/76bbaf12f4b80da4db961559/76bbaf12f4b80da4db961559.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Across-the-Spider-Verse-2023-สไปเดอร์-แมน-ผงาดข้ามจักรวาลแมงมุม.jpg" group-title="หนังการ์ตูน" ,Spider Man Across the Spider Verse (2023) สไปเดอร์ แมน ผงาดข้ามจักรวาลแมงมุม 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Across-the-Spider-Verse-2023-สไปเดอร์-แมน-ผงาดข้ามจักรวาลแมงมุม.jpg" group-title="หนังการ์ตูน" ,Spider Man Across the Spider Verse (2023) สไปเดอร์ แมน ผงาดข้ามจักรวาลแมงมุม 2
 https://main.24playerhd.com/newplaylist/5e25bef3cb02a46690dc0f5b/5e25bef3cb02a46690dc0f5b.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Rango-2011-แรงโก้-ฮีโร่ทะเลทราย.jpg" group-title="หนังการ์ตูน" ,Rango (2011) แรงโก้ ฮีโร่ทะเลทราย
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/Rango-2011-แรงโก้-ฮีโร่ทะเลทราย.jpg" group-title="หนังการ์ตูน" ,Rango (2011) แรงโก้ ฮีโร่ทะเลทราย
 https://main.24playerhd.com/newplaylist/38ebf3348b44fd6a3b61bd14/38ebf3348b44fd6a3b61bd14.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-Part-2-2023-ศึกตำนาน-7-อัศวิน-แค้นเอดินเบอระ-ภาค-2.jpg" group-title="หนังการ์ตูน" ,The Seven Deadly Sins Grudge of Edinburgh Part 2 (2023) ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ ภาค 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-Part-2-2023-ศึกตำนาน-7-อัศวิน-แค้นเอดินเบอระ-ภาค-2.jpg" group-title="หนังการ์ตูน" ,The Seven Deadly Sins Grudge of Edinburgh Part 2 (2023) ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ ภาค 2
 https://main.24playerhd.com/newplaylist/5b085774530c25f08953048a/5b085774530c25f08953048a.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Croods-A-New-Age-2020-เดอะ-ครู้ดส์-ตะลุยโลกใบใหม่.jpg" group-title="หนังการ์ตูน" ,The Croods A New Age (2020) เดอะ ครู้ดส์ ตะลุยโลกใบใหม่
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Croods-A-New-Age-2020-เดอะ-ครู้ดส์-ตะลุยโลกใบใหม่.jpg" group-title="หนังการ์ตูน" ,The Croods A New Age (2020) เดอะ ครู้ดส์ ตะลุยโลกใบใหม่
 https://main.24playerhd.com/newplaylist/4292e1e202c4524015fe99c4/4292e1e202c4524015fe99c4.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Croods-2013-มนุษย์ถ้ำผจญภัย.jpg" group-title="หนังการ์ตูน" ,The Croods (2013) มนุษย์ถ้ำผจญภัย
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/08/The-Croods-2013-มนุษย์ถ้ำผจญภัย.jpg" group-title="หนังการ์ตูน" ,The Croods (2013) มนุษย์ถ้ำผจญภัย
 https://main.24playerhd.com/newplaylist/1afdbbad924c3f0a66699cad/1afdbbad924c3f0a66699cad.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Resident-Evil-Death-Island-2023-ผีชีวะ-วิกฤตเกาะมรณะ.jpg" group-title="หนังการ์ตูน" ,Resident Evil Death Island (2023) ผีชีวะ วิกฤตเกาะมรณะ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Resident-Evil-Death-Island-2023-ผีชีวะ-วิกฤตเกาะมรณะ.jpg" group-title="หนังการ์ตูน" ,Resident Evil Death Island (2023) ผีชีวะ วิกฤตเกาะมรณะ
 https://main.24playerhd.com/newplaylist/8f9a5be2b7344f0b0626deea/8f9a5be2b7344f0b0626deea.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Dragon-Ball-Super-Super-Hero-2022-ดราก้อนบอลซูเปอร์-ซูเปอร์ฮีโร่.jpg" group-title="หนังการ์ตูน" ,Dragon Ball Super Super Hero (2022) ดราก้อนบอลซูเปอร์ ซูเปอร์ฮีโร่
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/Dragon-Ball-Super-Super-Hero-2022-ดราก้อนบอลซูเปอร์-ซูเปอร์ฮีโร่.jpg" group-title="หนังการ์ตูน" ,Dragon Ball Super Super Hero (2022) ดราก้อนบอลซูเปอร์ ซูเปอร์ฮีโร่
 https://main.24playerhd.com/newplaylist/da3c09617c339601cb82f4f6/da3c09617c339601cb82f4f6.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/LORD-Legend-of-Ravaging-Dynasties-2016-สงคราม-7-จอมเวทย์.jpg" group-title="หนังการ์ตูน" ,L.O.R.D Legend of Ravaging Dynasties (2016) สงคราม 7 จอมเวทย์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/07/LORD-Legend-of-Ravaging-Dynasties-2016-สงคราม-7-จอมเวทย์.jpg" group-title="หนังการ์ตูน" ,L.O.R.D Legend of Ravaging Dynasties (2016) สงคราม 7 จอมเวทย์
 https://main.24playerhd.com/newplaylist/9831fc8a433aa18220cb0fb4/9831fc8a433aa18220cb0fb4.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Nimona-2023-นิโมนา.jpg" group-title="หนังการ์ตูน" ,Nimona (2023) นิโมนา
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Nimona-2023-นิโมนา.jpg" group-title="หนังการ์ตูน" ,Nimona (2023) นิโมนา
 https://main.24playerhd.com/newplaylist/8658fce6d1264b3eba89ed13/8658fce6d1264b3eba89ed13.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/The-Sky-Crawlers-2008-สงครามเหนือเวหา.jpg" group-title="หนังการ์ตูน" ,The Sky Crawlers (2008) สงครามเหนือเวหา
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/The-Sky-Crawlers-2008-สงครามเหนือเวหา.jpg" group-title="หนังการ์ตูน" ,The Sky Crawlers (2008) สงครามเหนือเวหา
 https://main.24playerhd.com/newplaylist/47f12b71560263032375c008/47f12b71560263032375c008.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/How-to-Train-Your-Dragon-3-The-Hidden-World-2019-อภินิหารไวกิ้งพิชิตมังกร-3.jpg" group-title="หนังการ์ตูน" ,How to Train Your Dragon 3 The Hidden World (2019) อภินิหารไวกิ้งพิชิตมังกร 3
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/How-to-Train-Your-Dragon-3-The-Hidden-World-2019-อภินิหารไวกิ้งพิชิตมังกร-3.jpg" group-title="หนังการ์ตูน" ,How to Train Your Dragon 3 The Hidden World (2019) อภินิหารไวกิ้งพิชิตมังกร 3
 https://main.24playerhd.com/newplaylist/ed859f308d75bebfe7851edd/ed859f308d75bebfe7851edd.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/How-to-Train-Your-Dragon-2-2014-อภินิหารไวกิ้งพิชิตมังกร-2.jpg" group-title="หนังการ์ตูน" ,How to Train Your Dragon 2 (2014) อภินิหารไวกิ้งพิชิตมังกร 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/How-to-Train-Your-Dragon-2-2014-อภินิหารไวกิ้งพิชิตมังกร-2.jpg" group-title="หนังการ์ตูน" ,How to Train Your Dragon 2 (2014) อภินิหารไวกิ้งพิชิตมังกร 2
 https://main.24playerhd.com/newplaylist/0240e9333697e0c7f842b1de/0240e9333697e0c7f842b1de.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/How-to-Train-Your-Dragon-2010-อภินิหารไวกิ้งพิชิตมังกร.jpg" group-title="หนังการ์ตูน" ,How to Train Your Dragon (2010) อภินิหารไวกิ้งพิชิตมังกร
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/How-to-Train-Your-Dragon-2010-อภินิหารไวกิ้งพิชิตมังกร.jpg" group-title="หนังการ์ตูน" ,How to Train Your Dragon (2010) อภินิหารไวกิ้งพิชิตมังกร
 https://main.24playerhd.com/newplaylist/0b8e0f70742c0d388b16a090/0b8e0f70742c0d388b16a090.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Skull-Island-2023-มหาภัยเกาะกะโหลก.jpg" group-title="หนังการ์ตูน" ,Skull Island (2023) มหาภัยเกาะกะโหลก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Skull-Island-2023-มหาภัยเกาะกะโหลก.jpg" group-title="หนังการ์ตูน" ,Skull Island (2023) มหาภัยเกาะกะโหลก
 https://main.24playerhd.com/newplaylist/7840c0e4a8330f93e7e63497/7840c0e4a8330f93e7e63497.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/The-Super-Mario-Bros-Movie-2023-เดอะ-ซูเปอร์-มาริโอ้-บราเธอร์ส-มูฟวี่.jpg" group-title="หนังการ์ตูน" ,The Super Mario Bros Movie (2023) เดอะ ซูเปอร์ มาริโอ้ บราเธอร์ส มูฟวี่
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/The-Super-Mario-Bros-Movie-2023-เดอะ-ซูเปอร์-มาริโอ้-บราเธอร์ส-มูฟวี่.jpg" group-title="หนังการ์ตูน" ,The Super Mario Bros Movie (2023) เดอะ ซูเปอร์ มาริโอ้ บราเธอร์ส มูฟวี่
 https://main.24playerhd.com/newplaylist/3ad7129ac1a9e0cb1f7340cc/3ad7129ac1a9e0cb1f7340cc.m3u8
-        
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Black-Clover-Sword-of-the-Wizard-King-2023-แบล็คโคลเวอร์-ดาบแห่งจักรพรรดิเวทมนตร์.jpg" group-title="หนังการ์ตูน" ,Black Clover Sword of the Wizard King (2023) แบล็คโคลเวอร์ ดาบแห่งจักรพรรดิเวทมนตร์
 https://main.24playerhd.com/newplaylist/136b15c81472e067dd9613ff/136b15c81472e067dd9613ff.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Dragon-Rider-มหัศจรรย์มังกรสุดขอบฟ้า-2020.jpg" group-title="หนังการ์ตูน" ,Dragon Rider (2020) มหัศจรรย์มังกรสุดขอบฟ้า
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Dragon-Rider-มหัศจรรย์มังกรสุดขอบฟ้า-2020.jpg" group-title="หนังการ์ตูน" ,Dragon Rider (2020) มหัศจรรย์มังกรสุดขอบฟ้า
 https://main.24playerhd.com/newplaylist/b728d9600da2979bf5a59c05/b728d9600da2979bf5a59c05.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/One-Piece-Film-Red-2022-วันพีซ-ฟิล์ม-เรด.jpg" group-title="หนังการ์ตูน" ,One Piece Film Red (2022) วันพีซ ฟิล์ม เรด
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/One-Piece-Film-Red-2022-วันพีซ-ฟิล์ม-เรด.jpg" group-title="หนังการ์ตูน" ,One Piece Film Red (2022) วันพีซ ฟิล์ม เรด
 https://main.24playerhd.com/newplaylist/c0582c139ee1682aa6c9a3fc/c0582c139ee1682aa6c9a3fc.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/White-Snake-2019-ตำนาน-นางพญางูขาว.jpg" group-title="หนังการ์ตูน" ,White Snake (2019) ตำนาน นางพญางูขาว
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/White-Snake-2019-ตำนาน-นางพญางูขาว.jpg" group-title="หนังการ์ตูน" ,White Snake (2019) ตำนาน นางพญางูขาว
 https://main.24playerhd.com/newplaylist/223bc380e843021ae1cfed86/223bc380e843021ae1cfed86.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Into-the-Spider-Verse-2018-สไปเดอร์แมน-ผงาดสู่จักรวาล-แมงมุม.jpg" group-title="หนังการ์ตูน" ,Spider Man Into the Spider Verse (2018) สไปเดอร์แมน ผงาดสู่จักรวาล แมงมุม
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/06/Spider-Man-Into-the-Spider-Verse-2018-สไปเดอร์แมน-ผงาดสู่จักรวาล-แมงมุม.jpg" group-title="หนังการ์ตูน" ,Spider Man Into the Spider Verse (2018) สไปเดอร์แมน ผงาดสู่จักรวาล แมงมุม
 https://main.24playerhd.com/newplaylist/50a012408d4eb2150a9e1ee7/50a012408d4eb2150a9e1ee7.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Blue-Thermal-2022-ทฤษฎีสีฟ้า.jpg" group-title="หนังการ์ตูน" ,Blue Thermal (2022) ทฤษฎีสีฟ้า
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Blue-Thermal-2022-ทฤษฎีสีฟ้า.jpg" group-title="หนังการ์ตูน" ,Blue Thermal (2022) ทฤษฎีสีฟ้า
 https://main.24playerhd.com/newplaylist/de8b55ce1aa48de14b08de57/de8b55ce1aa48de14b08de57.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/The-Swan-Princess-A-Fairytale-Is-Born-2023.jpg" group-title="หนังการ์ตูน" ,The Swan Princess A Fairytale Is Born (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/The-Swan-Princess-A-Fairytale-Is-Born-2023.jpg" group-title="หนังการ์ตูน" ,The Swan Princess A Fairytale Is Born (2023)
 https://main.24playerhd.com/newplaylist/8ea74c0e0f9c2e267f220b2a/8ea74c0e0f9c2e267f220b2a.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Wish-Dragon-2021-มังกรอธิษฐาน.jpg" group-title="หนังการ์ตูน" ,Wish Dragon (2021) มังกรอธิษฐาน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Wish-Dragon-2021-มังกรอธิษฐาน.jpg" group-title="หนังการ์ตูน" ,Wish Dragon (2021) มังกรอธิษฐาน
 https://main.24playerhd.com/newplaylist/4b02b2153cc1bb150ba16e71/4b02b2153cc1bb150ba16e71.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Detective-Conan-Haibara-Ai-Monogatari-Kurogane-no-Mystery-Train-2023.jpg" group-title="หนังการ์ตูน" ,Detective Conan Haibara Ai Monogatari Kurogane no Mystery Train (2023) ยอดนักสืบจิ๋วโคนัน จุดเริ่มต้นของไฮบาระ ไอ ปริศนารถด่วนทมิฬ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Detective-Conan-Haibara-Ai-Monogatari-Kurogane-no-Mystery-Train-2023.jpg" group-title="หนังการ์ตูน" ,Detective Conan Haibara Ai Monogatari Kurogane no Mystery Train (2023) ยอดนักสืบจิ๋วโคนัน จุดเริ่มต้นของไฮบาระ ไอ ปริศนารถด่วนทมิฬ
 https://main.24playerhd.com/newplaylist/bd8ae4afec9d0e7bbaa27a74/bd8ae4afec9d0e7bbaa27a74.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/City-Hunter-Shinjuku-Private-Eyes-2019-ซิตี้ฮันเตอร์-โคตรนักสืบชินจูกุ.jpg" group-title="หนังการ์ตูน" ,City Hunter Shinjuku Private Eyes (2019) ซิตี้ฮันเตอร์ โคตรนักสืบชินจูกุ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/City-Hunter-Shinjuku-Private-Eyes-2019-ซิตี้ฮันเตอร์-โคตรนักสืบชินจูกุ.jpg" group-title="หนังการ์ตูน" ,City Hunter Shinjuku Private Eyes (2019) ซิตี้ฮันเตอร์ โคตรนักสืบชินจูกุ
 https://main.24playerhd.com/newplaylist/f9917e5b54ae9487d28c4952/f9917e5b54ae9487d28c4952.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Mai-Mai-Miracle-2009-ไม-ไม-อัศจรรย์สาวน้อยจินตนาการ.jpg" group-title="หนังการ์ตูน" ,Mai Mai Miracle (2009) ไม ไม อัศจรรย์สาวน้อยจินตนาการ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/05/Mai-Mai-Miracle-2009-ไม-ไม-อัศจรรย์สาวน้อยจินตนาการ.jpg" group-title="หนังการ์ตูน" ,Mai Mai Miracle (2009) ไม ไม อัศจรรย์สาวน้อยจินตนาการ
 https://main.24playerhd.com/newplaylist/078aafb8aac25455f84466e6/078aafb8aac25455f84466e6.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Fireheart-2022-สาวน้อยผจญไฟ-หัวใจไม่หยุดฝัน.jpg" group-title="หนังการ์ตูน" ,Fireheart (2022) สาวน้อยผจญไฟ หัวใจไม่หยุดฝัน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Fireheart-2022-สาวน้อยผจญไฟ-หัวใจไม่หยุดฝัน.jpg" group-title="หนังการ์ตูน" ,Fireheart (2022) สาวน้อยผจญไฟ หัวใจไม่หยุดฝัน
 https://main.24playerhd.com/newplaylist/8c52e4d9d5282328f01ae214/8c52e4d9d5282328f01ae214.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Ooops-Noah-Is-Gone-2015-อุ๊ปส์-ก๊วนซ่าป่วนมันสิ้นโลก.jpg" group-title="หนังการ์ตูน" ,Ooops! Noah Is Gone (2015) อุ๊ปส์ ก๊วนซ่าป่วนมันสิ้นโลก
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Ooops-Noah-Is-Gone-2015-อุ๊ปส์-ก๊วนซ่าป่วนมันสิ้นโลก.jpg" group-title="หนังการ์ตูน" ,Ooops! Noah Is Gone (2015) อุ๊ปส์ ก๊วนซ่าป่วนมันสิ้นโลก
 https://main.24playerhd.com/newplaylist/82d017ccb4f5d50ddaa88f8e/82d017ccb4f5d50ddaa88f8e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Rise-of-the-Guardians-2012-ห้าเทพผู้พิทักษ์.jpg" group-title="หนังการ์ตูน" ,Rise of the Guardians (2012) ห้าเทพผู้พิทักษ์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Rise-of-the-Guardians-2012-ห้าเทพผู้พิทักษ์.jpg" group-title="หนังการ์ตูน" ,Rise of the Guardians (2012) ห้าเทพผู้พิทักษ์
 https://main.24playerhd.com/newplaylist/c7ba8a08b608f228e8161e17/c7ba8a08b608f228e8161e17.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Ralph-Breaks-the-Internet-2018-ราล์ฟตะลุยโลกอินเทอร์เน็ต.jpg" group-title="หนังการ์ตูน" ,Ralph Breaks the Internet (2018) ราล์ฟตะลุยโลกอินเทอร์เน็ต วายร้ายหัวใจฮีโร่ 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Ralph-Breaks-the-Internet-2018-ราล์ฟตะลุยโลกอินเทอร์เน็ต.jpg" group-title="หนังการ์ตูน" ,Ralph Breaks the Internet (2018) ราล์ฟตะลุยโลกอินเทอร์เน็ต วายร้ายหัวใจฮีโร่ 2
 https://main.24playerhd.com/newplaylist/55d9910b8a23f6df362a53a3/55d9910b8a23f6df362a53a3.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Wreck-It-Ralph-2012-ราล์ฟ-วายร้ายหัวใจฮีโร่.jpg" group-title="หนังการ์ตูน" ,Wreck-It Ralph (2012) ราล์ฟ วายร้ายหัวใจฮีโร่
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Wreck-It-Ralph-2012-ราล์ฟ-วายร้ายหัวใจฮีโร่.jpg" group-title="หนังการ์ตูน" ,Wreck-It Ralph (2012) ราล์ฟ วายร้ายหัวใจฮีโร่
 https://main.24playerhd.com/newplaylist/b1a198a66520f6df766c4337/b1a198a66520f6df766c4337.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Smurfs-3-The-Lost-Village-2017-สเมิร์ฟ-หมู่บ้านที่สาบสูญ.jpg" group-title="หนังการ์ตูน" ,Smurfs 3 The Lost Village (2017) สเมิร์ฟ หมู่บ้านที่สาบสูญ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/Smurfs-3-The-Lost-Village-2017-สเมิร์ฟ-หมู่บ้านที่สาบสูญ.jpg" group-title="หนังการ์ตูน" ,Smurfs 3 The Lost Village (2017) สเมิร์ฟ หมู่บ้านที่สาบสูญ
 https://main.24playerhd.com/newplaylist/55a8d1ba9af82905428b52b5/55a8d1ba9af82905428b52b5.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/The-Smurfs-2-2013-เสมิร์ฟ-2.jpg" group-title="หนังการ์ตูน" ,The Smurfs 2 (2013) เสมิร์ฟ 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/The-Smurfs-2-2013-เสมิร์ฟ-2.jpg" group-title="หนังการ์ตูน" ,The Smurfs 2 (2013) เสมิร์ฟ 2
 https://main.24playerhd.com/newplaylist/f445aadc893a53db9667c31c/f445aadc893a53db9667c31c.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/The-Smurfs-2011-เสมิร์ฟ.jpg" group-title="หนังการ์ตูน" ,The Smurfs (2011) เสมิร์ฟ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/04/The-Smurfs-2011-เสมิร์ฟ.jpg" group-title="หนังการ์ตูน" ,The Smurfs (2011) เสมิร์ฟ
 https://main.24playerhd.com/newplaylist/ef7389ff2f62d58c667cca18/ef7389ff2f62d58c667cca18.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Mummies-2023-มัมมี่ส์.jpg" group-title="หนังการ์ตูน" ,Mummies (2023) มัมมี่ส์ 
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Mummies-2023-มัมมี่ส์.jpg" group-title="หนังการ์ตูน" ,Mummies (2023) มัมมี่ส์ 
 https://main.24playerhd.com/newplaylist/f2149f4b954a5c99d5f3405b/f2149f4b954a5c99d5f3405b.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Big-Hero-6-2014-บิ๊กฮีโร่-6.jpg" group-title="หนังการ์ตูน" ,Big Hero 6 (2014) บิ๊กฮีโร่ 6
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Big-Hero-6-2014-บิ๊กฮีโร่-6.jpg" group-title="หนังการ์ตูน" ,Big Hero 6 (2014) บิ๊กฮีโร่ 6
 https://main.24playerhd.com/newplaylist/164f957df81849ee68d1ca25/164f957df81849ee68d1ca25.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Khan-Kluay-2-2009-ก้านกล้วย-2.jpg" group-title="หนังการ์ตูน" ,Khan Kluay 2 (2009) ก้านกล้วย 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Khan-Kluay-2-2009-ก้านกล้วย-2.jpg" group-title="หนังการ์ตูน" ,Khan Kluay 2 (2009) ก้านกล้วย 2
 https://main.24playerhd.com/newplaylist/19c021e4653bf853d9a74d14/19c021e4653bf853d9a74d14.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Khan-Kluay-2006-ก้านกล้วย.jpg" group-title="หนังการ์ตูน" ,Khan Kluay (2006) ก้านกล้วย
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Khan-Kluay-2006-ก้านกล้วย.jpg" group-title="หนังการ์ตูน" ,Khan Kluay (2006) ก้านกล้วย
 https://main.24playerhd.com/newplaylist/58578f7b02faa71a8be9668e/58578f7b02faa71a8be9668e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/The-Magicians-Elephant-2023-มนตร์คาถากับช้างวิเศษ.jpg" group-title="หนังการ์ตูน" ,The Magician's Elephant (2023) มนตร์คาถากับช้างวิเศษ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/The-Magicians-Elephant-2023-มนตร์คาถากับช้างวิเศษ.jpg" group-title="หนังการ์ตูน" ,The Magician's Elephant (2023) มนตร์คาถากับช้างวิเศษ
 https://main.24playerhd.com/newplaylist/c316499109a6d1d9712d2b6e/c316499109a6d1d9712d2b6e.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Star-Wars-The-Bad-Batch-2-2022.jpg" group-title="หนังการ์ตูน" ,Star Wars The Bad Batch 2 (2023) สตาร์ วอร์ส ทีมโคตรโคลนมหากาฬ 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Star-Wars-The-Bad-Batch-2-2022.jpg" group-title="หนังการ์ตูน" ,Star Wars The Bad Batch 2 (2023) สตาร์ วอร์ส ทีมโคตรโคลนมหากาฬ 2
  https://main.24playerhd.com/newplaylist/86c141ceb8c67597569c1efd/86c141ceb8c67597569c1efd.m3u8
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Barbie-Skipper-and-the-Big-Babysitting-Adventure-2023.jpg" group-title="หนังการ์ตูน" ,Barbie Skipper and the Big Babysitting Adventure (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Barbie-Skipper-and-the-Big-Babysitting-Adventure-2023.jpg" group-title="หนังการ์ตูน" ,Barbie Skipper and the Big Babysitting Adventure (2023)
 https://main.24playerhd.com/newplaylist/6a567ebaa856018cb41c8260/6a567ebaa856018cb41c8260.m3u8
-
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/03/Star-Wars-The-Clone-Wars-2008.jpg" group-title="หนังการ์ตูน" ,Star Wars The Clone Wars (2008) สตาร์ วอร์ส สงครามโคลน
 https://main.24playerhd.com/newplaylist/03bea7dab07c4b559c50bcde/03bea7dab07c4b559c50bcde.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-6-2022.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 6 (2022) ริกและมอร์ตี้ ซีซั่น 6
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-6-2022.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 6 (2022) ริกและมอร์ตี้ ซีซั่น 6
 https://main.24playerhd.com/newplaylist/2571218d93e1f098bf4126b7/2571218d93e1f098bf4126b7.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-5-2021.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 5 (2021) ริกและมอร์ตี้ ซีซั่น 5
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-5-2021.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 5 (2021) ริกและมอร์ตี้ ซีซั่น 5
 https://main.24playerhd.com/newplaylist/33c281167ecfa15c4543cb64/33c281167ecfa15c4543cb64.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-4-2019.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 4 (2019) ริกและมอร์ตี้ ซีซั่น 4
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-4-2019.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 4 (2019) ริกและมอร์ตี้ ซีซั่น 4
 https://main.24playerhd.com/newplaylist/ad1aca7dd9f635b6ed108129/ad1aca7dd9f635b6ed108129.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-3-2017.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 3 (2017) ริกและมอร์ตี้ ซีซั่น 3
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-3-2017.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 3 (2017) ริกและมอร์ตี้ ซีซั่น 3
 https://main.24playerhd.com/newplaylist/7af30c8e4588feb69f2c53ff/7af30c8e4588feb69f2c53ff.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-2-2015.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 2 (2015) ริกและมอร์ตี้ ซีซั่น 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-2-2015.jpg" group-title="หนังการ์ตูน" ,Rick and Morty 2 (2015) ริกและมอร์ตี้ ซีซั่น 2
 https://main.24playerhd.com/newplaylist/647b3b8cd4588b2429f45d37/647b3b8cd4588b2429f45d37.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-2013-ริกและมอร์ตี้.jpg" group-title="หนังการ์ตูน" ,Rick and Morty (2013) ริกและมอร์ตี้
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Rick-and-Morty-2013-ริกและมอร์ตี้.jpg" group-title="หนังการ์ตูน" ,Rick and Morty (2013) ริกและมอร์ตี้
 https://main.24playerhd.com/newplaylist/ee9f67db683dca274b0cb743/ee9f67db683dca274b0cb743.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/My-Dad-the-Bounty-Hunter-2023-คุณพ่อฉันเป็นนักล่าค่าหัว.jpg" group-title="หนังการ์ตูน" ,My Dad the Bounty Hunter (2023) คุณพ่อฉันเป็นนักล่าค่าหัว
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/My-Dad-the-Bounty-Hunter-2023-คุณพ่อฉันเป็นนักล่าค่าหัว.jpg" group-title="หนังการ์ตูน" ,My Dad the Bounty Hunter (2023) คุณพ่อฉันเป็นนักล่าค่าหัว
 https://main.24playerhd.com/newplaylist/25aaf3fba6b89da43dec5c79/25aaf3fba6b89da43dec5c79.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Make-My-Day-2023.jpg" group-title="หนังการ์ตูน" ,Make My Day (2023)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Make-My-Day-2023.jpg" group-title="หนังการ์ตูน" ,Make My Day (2023)
 https://main.24playerhd.com/newplaylist/d5620d6d519af8719266038a/d5620d6d519af8719266038a.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Tom-Jerry-Back-to-Oz-2016-ทอม-กับ-เจอร์รี่-พิทักษ์เมืองพ่อมดออซ.jpg" group-title="หนังการ์ตูน" ,Tom & Jerry Back to Oz (2016) ทอม กับ เจอร์รี่ พิทักษ์เมืองพ่อมดออซ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/02/Tom-Jerry-Back-to-Oz-2016-ทอม-กับ-เจอร์รี่-พิทักษ์เมืองพ่อมดออซ.jpg" group-title="หนังการ์ตูน" ,Tom & Jerry Back to Oz (2016) ทอม กับ เจอร์รี่ พิทักษ์เมืองพ่อมดออซ
 https://main.24playerhd.com/newplaylist/cd6f0b594175ac24b4218e61/cd6f0b594175ac24b4218e61.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Record-of-Ragnarok-2-2023.jpg" group-title="หนังการ์ตูน" ,Record of Ragnarok 2 (2023) มหาศึกคนชนเทพ 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Record-of-Ragnarok-2-2023.jpg" group-title="หนังการ์ตูน" ,Record of Ragnarok 2 (2023) มหาศึกคนชนเทพ 2
 https://main.24playerhd.com/newplaylist/c6911223aa140e7bba9ef88d/c6911223aa140e7bba9ef88d.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Record-of-Ragnarok-2021-มหาศึกคนชนเทพ.jpg" group-title="หนังการ์ตูน" ,Record of Ragnarok (2021) มหาศึกคนชนเทพ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Record-of-Ragnarok-2021-มหาศึกคนชนเทพ.jpg" group-title="หนังการ์ตูน" ,Record of Ragnarok (2021) มหาศึกคนชนเทพ
 https://main.24playerhd.com/newplaylist/86bb35d236c7f1d4f8051439/86bb35d236c7f1d4f8051439.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Daniel-Spellbound-2-2022.jpg" group-title="หนังการ์ตูน" ,Daniel Spellbound 2 (2022) แดเนียล สเปลบาวด์ 2 นักล่าสมบัติมหัศจรรย์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Daniel-Spellbound-2-2022.jpg" group-title="หนังการ์ตูน" ,Daniel Spellbound 2 (2022) แดเนียล สเปลบาวด์ 2 นักล่าสมบัติมหัศจรรย์
 https://main.24playerhd.com/newplaylist/564dd79c72efdb8b7f44fcf8/564dd79c72efdb8b7f44fcf8.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Daniel-Spellbound-2022-scaled.jpg" group-title="หนังการ์ตูน" ,Daniel Spellbound (2022) แดเนียล สเปลบาวด์ นักล่าสมบัติมหัศจรรย์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Daniel-Spellbound-2022-scaled.jpg" group-title="หนังการ์ตูน" ,Daniel Spellbound (2022) แดเนียล สเปลบาวด์ นักล่าสมบัติมหัศจรรย์
 https://main.24playerhd.com/newplaylist/60da4b11e9c2b97ba052b5d5/60da4b11e9c2b97ba052b5d5.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Monkey-King-Hero-Is-Back-2015-ไซอิ๋ววานรผู้พิทักษ์.jpg" group-title="หนังการ์ตูน" ,Monkey King Hero Is Back (2015) ไซอิ๋ววานรผู้พิทักษ์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Monkey-King-Hero-Is-Back-2015-ไซอิ๋ววานรผู้พิทักษ์.jpg" group-title="หนังการ์ตูน" ,Monkey King Hero Is Back (2015) ไซอิ๋ววานรผู้พิทักษ์
 https://main.24playerhd.com/newplaylist/5ab76004b2bea7f3d5e5d0be/5ab76004b2bea7f3d5e5d0be.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Junji-Ito-Maniac-Japanese-Tales-of-the-Macabre-2023.jpg" group-title="หนังการ์ตูน" ,Junji Ito Maniac Japanese Tales of the Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Junji-Ito-Maniac-Japanese-Tales-of-the-Macabre-2023.jpg" group-title="หนังการ์ตูน" ,Junji Ito Maniac Japanese Tales of the Macabre (2023) จุนจิ อิโต้ รวมเรื่องสยองขวัญญี่ปุ่น
 https://main.24playerhd.com/newplaylist/340006813c10997daa0ce1af/340006813c10997daa0ce1af.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส.jpg" group-title="หนังการ์ตูน" ,Tokyo Revengers (2021) โตเกียว รีเวนเจอร์ส
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Tokyo-Revengers-2021-โตเกียว-รีเวนเจอร์ส.jpg" group-title="หนังการ์ตูน" ,Tokyo Revengers (2021) โตเกียว รีเวนเจอร์ส
 https://main.24playerhd.com/newplaylist/510d3ca5996abcdda40706c0/510d3ca5996abcdda40706c0.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Puss-in-Boots-2-The-Last-Wish-2022-พุซ-อิน-บู๊ทส์-2.jpg" group-title="หนังการ์ตูน" ,Puss in Boots 2 The Last Wish (2022) พุซ อิน บู๊ทส์ 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Puss-in-Boots-2-The-Last-Wish-2022-พุซ-อิน-บู๊ทส์-2.jpg" group-title="หนังการ์ตูน" ,Puss in Boots 2 The Last Wish (2022) พุซ อิน บู๊ทส์ 2
 https://main.24playerhd.com/newplaylist/05e90a21e6db5f7987a28b9a/05e90a21e6db5f7987a28b9a.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Puss-in-Boots-2011-พุซ-อิน-บู๊ทส์.jpg" group-title="หนังการ์ตูน" ,Puss in Boots (2011) พุซ อิน บู๊ทส์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Puss-in-Boots-2011-พุซ-อิน-บู๊ทส์.jpg" group-title="หนังการ์ตูน" ,Puss in Boots (2011) พุซ อิน บู๊ทส์
 https://main.24playerhd.com/newplaylist/b323a7c7532d00ffa2a71c59/b323a7c7532d00ffa2a71c59.m3u8
-       
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Star-Wars-The-Bad-Batch-2021.jpg" group-title="หนังการ์ตูน" ,Star Wars The Bad Batch (2021) สตาร์ วอร์ส ทีมโคตรโคลนมหากาฬ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/Star-Wars-The-Bad-Batch-2021.jpg" group-title="หนังการ์ตูน" ,Star Wars The Bad Batch (2021) สตาร์ วอร์ส ทีมโคตรโคลนมหากาฬ
 https://main.24playerhd.com/newplaylist/ec3d3fab1072d406f5004e42/ec3d3fab1072d406f5004e42.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/The-Way-of-the-Househusband-2-2022.jpg" group-title="หนังการ์ตูน" ,The Way of the Househusband 2 (2022) พ่อบ้านสุดเก๋า ภาค 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/The-Way-of-the-Househusband-2-2022.jpg" group-title="หนังการ์ตูน" ,The Way of the Househusband 2 (2022) พ่อบ้านสุดเก๋า ภาค 2
 https://main.24playerhd.com/newplaylist/4224000c311137c212c7aefb/4224000c311137c212c7aefb.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/The-Way-of-the-Househusband-2021.jpg" group-title="หนังการ์ตูน" ,The Way of the Househusband (2021) พ่อบ้านสุดเก๋า
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2023/01/The-Way-of-the-Househusband-2021.jpg" group-title="หนังการ์ตูน" ,The Way of the Househusband (2021) พ่อบ้านสุดเก๋า
 https://main.24playerhd.com/newplaylist/55e7b777068da2e722461378/55e7b777068da2e722461378.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Spy-x-Family-2022.jpg" group-title="หนังการ์ตูน" ,Spy x Family (2022) เมื่อสายลับต้องมาสร้างครอบครัวปลอมๆ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Spy-x-Family-2022.jpg" group-title="หนังการ์ตูน" ,Spy x Family (2022) เมื่อสายลับต้องมาสร้างครอบครัวปลอมๆ
 https://main.24playerhd.com/newplaylist/9efbd1fd325008fa028bd870/9efbd1fd325008fa028bd870.m3u8
-      
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Strange-World-2022-ลุยโลกลึกลับ.jpg" group-title="หนังการ์ตูน" ,Strange World (2022) ลุยโลกลึกลับ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Strange-World-2022-ลุยโลกลึกลับ.jpg" group-title="หนังการ์ตูน" ,Strange World (2022) ลุยโลกลึกลับ
 https://main.24playerhd.com/newplaylist/273be78407fb18ab564e7437/273be78407fb18ab564e7437.m3u8
-
- 
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Lyle-Lyle-Crocodile-2022.jpg" group-title="หนังการ์ตูน" ,Lyle Lyle Crocodile (2022) ไลล์ จระเข้ตัวพ่อ หัวใจล้อหล่อ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Lyle-Lyle-Crocodile-2022.jpg" group-title="หนังการ์ตูน" ,Lyle Lyle Crocodile (2022) ไลล์ จระเข้ตัวพ่อ หัวใจล้อหล่อ
 https://main.24playerhd.com/newplaylist/51d41f0d210fa6e8467f15bb/51d41f0d210fa6e8467f15bb.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-2022.jpg" group-title="หนังการ์ตูน" ,The Seven Deadly Sins Grudge of Edinburgh (2022) ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ ภาค 1
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/The-Seven-Deadly-Sins-Grudge-of-Edinburgh-2022.jpg" group-title="หนังการ์ตูน" ,The Seven Deadly Sins Grudge of Edinburgh (2022) ศึกตำนาน 7 อัศวิน แค้นเอดินเบอระ ภาค 1
 https://main.24playerhd.com/newplaylist/9495f8fd2285c71b616dae26/9495f8fd2285c71b616dae26.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Sonic-Prime-2022-โซนิค-ไพรม์.jpg" group-title="หนังการ์ตูน" ,Sonic Prime (2022) โซนิค ไพรม์
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Sonic-Prime-2022-โซนิค-ไพรม์.jpg" group-title="หนังการ์ตูน" ,Sonic Prime (2022) โซนิค ไพรม์
 https://main.24playerhd.com/newplaylist/b2faaaf92edc641cee99e1db/b2faaaf92edc641cee99e1db.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Detective-Conan-The-Bride-of-Halloween-2022.jpg" group-title="หนังการ์ตูน" ,Detective Conan The Bride of Halloween (2022) ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 25 เจ้าสาวฮาโลวีน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Detective-Conan-The-Bride-of-Halloween-2022.jpg" group-title="หนังการ์ตูน" ,Detective Conan The Bride of Halloween (2022) ยอดนักสืบจิ๋วโคนัน เดอะมูฟวี่ 25 เจ้าสาวฮาโลวีน
 https://main.24playerhd.com/newplaylist/46cba8b54215252ea8b390ff/46cba8b54215252ea8b390ff.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Chainsaw-Man-2022.jpg" group-title="หนังการ์ตูน" ,Chainsaw Man (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Chainsaw-Man-2022.jpg" group-title="หนังการ์ตูน" ,Chainsaw Man (2022)
 https://main.24playerhd.com/newplaylist/052a8294281f5e7822a2bf10/052a8294281f5e7822a2bf10.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Gudetama-An-Eggcellent-Adventure-2022-กุเดทามะ-ไข่ขี้เกียจผจญภัย.jpg" group-title="หนังการ์ตูน" ,Gudetama An Eggcellent Adventure (2022) กุเดทามะ ไข่ขี้เกียจผจญภัย
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Gudetama-An-Eggcellent-Adventure-2022-กุเดทามะ-ไข่ขี้เกียจผจญภัย.jpg" group-title="หนังการ์ตูน" ,Gudetama An Eggcellent Adventure (2022) กุเดทามะ ไข่ขี้เกียจผจญภัย
 https://main.24playerhd.com/newplaylist/ed5d7a47efb9aedc2d683db9/ed5d7a47efb9aedc2d683db9.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Bleach-Thousand-Year-Blood-War-2022.jpg" group-title="หนังการ์ตูน" ,Bleach Thousand-Year Blood War (2022) สงครามเลือดพันปี
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Bleach-Thousand-Year-Blood-War-2022.jpg" group-title="หนังการ์ตูน" ,Bleach Thousand-Year Blood War (2022) สงครามเลือดพันปี
 https://main.24playerhd.com/newplaylist/c51f23075e3a4acff44ff5ea/c51f23075e3a4acff44ff5ea.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Night-at-the-Museum-Kahmunrah-Rises-Again-2022.jpg" group-title="หนังการ์ตูน" ,Night at the Museum Kahmunrah Rises Again (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Night-at-the-Museum-Kahmunrah-Rises-Again-2022.jpg" group-title="หนังการ์ตูน" ,Night at the Museum Kahmunrah Rises Again (2022)
 https://main.24playerhd.com/newplaylist/e5091faac017efb713a70e9f/e5091faac017efb713a70e9f.m3u8
-           
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Guillermo-del-Toros-Pinocchio-2022.jpg" group-title="หนังการ์ตูน" ,Guillermo del Toro's Pinocchio (2022) พิน็อกคิโอ หุ่นน้อยผจญภัย โดยกีเยร์โม เดล โตโร
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Guillermo-del-Toros-Pinocchio-2022.jpg" group-title="หนังการ์ตูน" ,Guillermo del Toro's Pinocchio (2022) พิน็อกคิโอ หุ่นน้อยผจญภัย โดยกีเยร์โม เดล โตโร
 https://main.24playerhd.com/newplaylist/cf2c5c4e6b4741005c7d6961/cf2c5c4e6b4741005c7d6961.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Dragon-Age-Absolution-2022.jpg" group-title="หนังการ์ตูน" ,Dragon Age Absolution (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Dragon-Age-Absolution-2022.jpg" group-title="หนังการ์ตูน" ,Dragon Age Absolution (2022)
 https://main.24playerhd.com/newplaylist/e9acd3a734bcf06f9ced060d/e9acd3a734bcf06f9ced060d.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Lookism-2022.jpg" group-title="หนังการ์ตูน" ,Lookism (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Lookism-2022.jpg" group-title="หนังการ์ตูน" ,Lookism (2022)
 https://main.24playerhd.com/newplaylist/d3173d25fa73e4b8e1a44b5d/d3173d25fa73e4b8e1a44b5d.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/The-Boss-Baby-Christmas-Bonus-2022.jpg" group-title="หนังการ์ตูน" ,The Boss Baby Christmas Bonus (2022) บอสเบบี้ คริสต์มาสโบนัส
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/The-Boss-Baby-Christmas-Bonus-2022.jpg" group-title="หนังการ์ตูน" ,The Boss Baby Christmas Bonus (2022) บอสเบบี้ คริสต์มาสโบนัส
 https://main.24playerhd.com/newplaylist/1d8f30e1f485c2bd8c5ff263/1d8f30e1f485c2bd8c5ff263.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Scrooge-A-Christmas-Carol-2022.jpg" group-title="หนังการ์ตูน" ,Scrooge A Christmas Carol (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Scrooge-A-Christmas-Carol-2022.jpg" group-title="หนังการ์ตูน" ,Scrooge A Christmas Carol (2022)
 https://main.24playerhd.com/newplaylist/7e1c4b0da3c152d333cfa07b/7e1c4b0da3c152d333cfa07b.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Diary-of-a-Wimpy-Kid-2-Rodrick-Rules-2022.jpg" group-title="หนังการ์ตูน" ,Diary of a Wimpy Kid 2 Rodrick Rules (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Diary-of-a-Wimpy-Kid-2-Rodrick-Rules-2022.jpg" group-title="หนังการ์ตูน" ,Diary of a Wimpy Kid 2 Rodrick Rules (2022)
 https://main.24playerhd.com/newplaylist/ed7c7ac3265f54c0775a16bf/ed7c7ac3265f54c0775a16bf.m3u8
-          
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Doraemon-Nobitas-Space-War-Little-Star-Wars-2021-สงครามอวกาศจิ๋วของโนบิตะ.jpg" group-title="หนังการ์ตูน" ,Doraemon Nobitas Space War Little Star Wars (2021) สงครามอวกาศจิ๋วของโนบิตะ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/12/Doraemon-Nobitas-Space-War-Little-Star-Wars-2021-สงครามอวกาศจิ๋วของโนบิตะ.jpg" group-title="หนังการ์ตูน" ,Doraemon Nobitas Space War Little Star Wars (2021) สงครามอวกาศจิ๋วของโนบิตะ
 https://main.24playerhd.com/newplaylist/fc16b19e3f39ea5fea1ed365/fc16b19e3f39ea5fea1ed365.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/The-Action-Pack-Saves-Christmas-2022.jpg" group-title="หนังการ์ตูน" ,The Action Pack Saves Christmas (2022) แอ็คชั่นแพ็คพิทักษ์คริสต์มาส
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/The-Action-Pack-Saves-Christmas-2022.jpg" group-title="หนังการ์ตูน" ,The Action Pack Saves Christmas (2022) แอ็คชั่นแพ็คพิทักษ์คริสต์มาส
 https://main.24playerhd.com/newplaylist/4a85c201e957b718bae76183/4a85c201e957b718bae76183.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Seoul-Station-2016-ก่อนนรกซอมบี้คลั่ง.jpg" group-title="หนังการ์ตูน" ,Seoul Station (2016) ก่อนนรกซอมบี้คลั่ง
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Seoul-Station-2016-ก่อนนรกซอมบี้คลั่ง.jpg" group-title="หนังการ์ตูน" ,Seoul Station (2016) ก่อนนรกซอมบี้คลั่ง
 https://main.24playerhd.com/newplaylist/e9323e38075dc58269217741/e9323e38075dc58269217741.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Disenchanted-2022.jpg" group-title="หนังการ์ตูน" ,Disenchanted (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Disenchanted-2022.jpg" group-title="หนังการ์ตูน" ,Disenchanted (2022)
 https://main.24playerhd.com/newplaylist/250ef44973f58cc6bb08749c/250ef44973f58cc6bb08749c.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Enchanted-2007.jpg" group-title="หนังการ์ตูน" ,Enchanted (2007) มหัศจรรย์รักข้ามภพ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/Enchanted-2007.jpg" group-title="หนังการ์ตูน" ,Enchanted (2007) มหัศจรรย์รักข้ามภพ
 https://main.24playerhd.com/newplaylist/be88b5c55b8be841aabb5d4d/be88b5c55b8be841aabb5d4d.m3u8
-      
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/My-Fathers-Dragon-2022.jpg" group-title="หนังการ์ตูน" ,My Fathers Dragon (2022) มังกรของพ่อ
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/My-Fathers-Dragon-2022.jpg" group-title="หนังการ์ตูน" ,My Fathers Dragon (2022) มังกรของพ่อ
 https://main.24playerhd.com/newplaylist/64b7164259fb5d0e0f750edb/64b7164259fb5d0e0f750edb.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/The-Soccer-Football-Movie-2022-ภารกิจปราบปีศาจฟุตบอล.jpg" group-title="หนังการ์ตูน" ,The Soccer Football Movie (2022) ภารกิจปราบปีศาจฟุตบอล
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/11/The-Soccer-Football-Movie-2022-ภารกิจปราบปีศาจฟุตบอล.jpg" group-title="หนังการ์ตูน" ,The Soccer Football Movie (2022) ภารกิจปราบปีศาจฟุตบอล
 https://main.24playerhd.com/newplaylist/5362a3093040723093c56c3c/5362a3093040723093c56c3c.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Jujutsu-Kaisen-0-2021-มหาเวทย์ผนึกมารซีโร่.jpg" group-title="หนังการ์ตูน" ,Jujutsu Kaisen 0 (2021) มหาเวทย์ผนึกมารซีโร่
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Jujutsu-Kaisen-0-2021-มหาเวทย์ผนึกมารซีโร่.jpg" group-title="หนังการ์ตูน" ,Jujutsu Kaisen 0 (2021) มหาเวทย์ผนึกมารซีโร่
 https://main.24playerhd.com/newplaylist/9353ae4b3b0fd7b36a22b305/9353ae4b3b0fd7b36a22b305.m3u8
- 
  #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Wendell-Wild-2022.jpg" group-title="หนังการ์ตูน" ,Wendell & Wild (2022) เวนเดลล์กับไวลด์
  https://main.24playerhd.com/newplaylist/9e80f26e9d2b53633bdc9def/9e80f26e9d2b53633bdc9def.m3u8
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Thor-Tales-of-Asgard-2011.jpg" group-title="หนังการ์ตูน" ,Thor Tales of Asgard (2011)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Thor-Tales-of-Asgard-2011.jpg" group-title="หนังการ์ตูน" ,Thor Tales of Asgard (2011)
  https://main.24playerhd.com/newplaylist/0eb62200a2a2e24fda556442/0eb62200a2a2e24fda556442.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Entergalactic-2022.jpg" group-title="หนังการ์ตูน" ,Entergalactic (2022)
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/10/Entergalactic-2022.jpg" group-title="หนังการ์ตูน" ,Entergalactic (2022)
 https://main.24playerhd.com/newplaylist/3701013a1ab02cdca5f005ef/3701013a1ab02cdca5f005ef.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Josee-the-Tiger-and-the-Fish-2020.jpg" group-title="หนังการ์ตูน" ,Josee the Tiger and the Fish (2020) โจเซ่ กับเสือและหมู่ปลา
 https://main.24playerhd.com/newplaylist/a191700e62ce7418fc47fcff/a191700e62ce7418fc47fcff.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Drifting-Home-2022-บ้านล่องลอย.jpg" group-title="หนังการ์ตูน" ,Drifting Home (2022) บ้านล่องลอย
 https://main.24playerhd.com/newplaylist/024eb49b3a56e136630ce8e8/024eb49b3a56e136630ce8e8.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022.jpg" group-title="หนังการ์ตูน" ,Cyberpunk Edgerunners (2022) อาชญากรแดนเถื่อน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Cyberpunk-Edgerunners-2022.jpg" group-title="หนังการ์ตูน" ,Cyberpunk Edgerunners (2022) อาชญากรแดนเถื่อน
 https://main.24playerhd.com/newplaylist/da35d918f3e58f6883855ee2/da35d918f3e58f6883855ee2.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Minions-2015.jpg" group-title="หนังการ์ตูน" ,Minions (2015) มินเนียน
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Minions-2015.jpg" group-title="หนังการ์ตูน" ,Minions (2015) มินเนียน
 https://main.24playerhd.com/newplaylist/f2896c5e8f8683d3d4362271/f2896c5e8f8683d3d4362271.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Despicable-Me-3-2017-มิสเตอร์แสบ-ร้ายเกินพิกัด-3.jpg" group-title="หนังการ์ตูน" ,Despicable Me 3 (2017) มิสเตอร์แสบ ร้ายเกินพิกัด 3
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Despicable-Me-3-2017-มิสเตอร์แสบ-ร้ายเกินพิกัด-3.jpg" group-title="หนังการ์ตูน" ,Despicable Me 3 (2017) มิสเตอร์แสบ ร้ายเกินพิกัด 3
 https://main.24playerhd.com/newplaylist/9b0f9d563ea2799dcf43a2c6/9b0f9d563ea2799dcf43a2c6.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Despicable-Me-2-2013-มิสเตอร์แสบ-ร้ายเกินพิกัด-2.jpg" group-title="หนังการ์ตูน" ,Despicable Me 2 (2013) มิสเตอร์แสบ ร้ายเกินพิกัด 2
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Despicable-Me-2-2013-มิสเตอร์แสบ-ร้ายเกินพิกัด-2.jpg" group-title="หนังการ์ตูน" ,Despicable Me 2 (2013) มิสเตอร์แสบ ร้ายเกินพิกัด 2
 https://main.24playerhd.com/newplaylist/fff2bf660cffe5b051114134/fff2bf660cffe5b051114134.m3u8
-
-
- #EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Despicable-Me-1-2010-มิสเตอร์แสบ-ร้ายเกินพิกัด-1.jpg" group-title="หนังการ์ตูน" ,Despicable Me 1 (2010) มิสเตอร์แสบ ร้ายเกินพิกัด 1
+#EXTINF:-1 tvg-logo="https://www.24-hd.com/wp-content/uploads/2022/09/Despicable-Me-1-2010-มิสเตอร์แสบ-ร้ายเกินพิกัด-1.jpg" group-title="หนังการ์ตูน" ,Despicable Me 1 (2010) มิสเตอร์แสบ ร้ายเกินพิกัด 1
 https://main.24playerhd.com/newplaylist/f1606a0d24c1006b1565cc34/f1606a0d24c1006b1565cc34.m3u8
-
 #EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/3015/20220712160429l7Kz.jpg" group-title="หนังการ์ตูน" ,Ratatouille - ระ-ทะ-ทู-อี่ พ่อครัวตัวจี๊ด หัวใจคับโลก (2007) [HD]
 https://movie.server-cdn-streaming.com/api/uploads/movie/3015/video/6741/hls/movie.m3u8
 
