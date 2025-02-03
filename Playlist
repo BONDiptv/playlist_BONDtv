@@ -409,6 +409,8 @@ https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueasiamove.m3u8
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truefilmasia.m3u8
 #EXTINF:-1 group-title="ช่องทรูวิชั่น" tvg-id="CCM" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png",TRUE CCM
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueccm.m3u8
+
+
 #EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
 https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 #EXTINF:-0 group-title="ช่องทรูวิชั่น" tvg-id="TrueExploreSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
@@ -1875,21 +1877,15 @@ https://varun-iptv.netlify.app/m3u/DMAX.m3u8
 
 
 
+#EXTINF:-0 group-title="ช่องสารคดี" tvg-id="DOCTrueExpLife.th" tvg-logo="https://cms.dmpcdn.com/livetv/2024/01/16/c97ab380-b44c-11ee-9687-e7ccd66e1ea3_webp_original.webp",True Explorer Life
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorelife.m3u8
 
-#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="https://dookeela.live/uploads/1724166670.png" ,True Explore Life
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexplife.m3u8
-
-#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="https://dookeela.live/uploads/1724167268.png" ,True Explore Sci
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpsci.m3u8
-
-#EXTINF:-1 group-title="ช่องสารคดี" tvg-logo="https://dookeela.live/uploads/1724166218.png" ,True Explore Wild
-#EXTVLCOPT:http-referrer=https://soccertv4k.com/
-https://playtvthai.github.io/m3u8/movie/trueexpwild.m3u8
+#EXTINF:-0 group-title="ช่องสารคดี" tvg-id="DOCTrueExpSci.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp", True Explore Sci
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u8
 
 
-
+#EXTINF:-0 group-title="ช่องสารคดี" tvg-id="DOCTrueExpWild.th" tvg-logo="https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png", True Explore Wild
+https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexplorewild.m3u8
 
 
 
