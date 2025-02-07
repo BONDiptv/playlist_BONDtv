@@ -5549,8 +5549,14 @@ https://movie.server-cdn-streaming.com/api/uploads/movie/5467/video/20469/hls/mo
 หนังใหม่-2024 2/02/2025 tongha-movie.com
 ########################################
 
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5368/202410201838066f5l.jpg" group-title="หนังใหม่-2024" ,ธี่หยด 2 (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5368/video/20630/hls/movie.m3u8
 
-#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5416/20241212120601LlYO.jpg" group-title="หนังใหม่-2024" ,มอาน่า 2 (2024)
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5447/20250109095345VNOp.jpg" group-title="หนังใหม่-2024" ,วิมานหนาม (2024)
+https://movie.server-cdn-streaming.com/api/uploads/movie/5447/video/20340/hls/movie.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://movie.server-cdn-streaming.com/api/uploads/movie/5416/20241212120601LlYO.jpg" group-title="หนังใหม่-2024" ,โมอาน่า 2 (2024)
 https://movie.server-cdn-streaming.com/api/uploads/movie/5416/video/20580/hls/movie.m3u8
 
 
