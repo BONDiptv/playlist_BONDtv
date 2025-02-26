@@ -9,6 +9,8 @@
 
 
 
+
+
 #EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,http://poid0020.trueddns.com:54337/guide.xml,https://iptv36.vercel.app/epg.xml,https://epg.pw/xmltv/epg_TH.xml, https://www.bevy.be/bevyfiles/thailandpremium.xml,https://xmltv.tvkaista.net/guides/tv.trueid.net.xml" refresh="3600" 
 
 
