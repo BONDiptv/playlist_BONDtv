@@ -532,6 +532,9 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/904/904.mpd
 ###SPORT###
 
 
+
+
+
 #EXTINF:-1 tvg-id="Eurosport.1.HD.uk" tvg-name="Eurosport 1 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/339_144.png" group-title="ช่องกีฬา",EuroSport 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175200&extension=ts
 
@@ -540,18 +543,16 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175202&extension=
 
 
 #EXTINF:-1 tvg-id="TNT.Sports.1.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport1.png" group-title="ช่องกีฬา",TNT Sport 1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175184&extension=ts
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/TNTSport1.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.2.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsports2vip.png" group-title="ช่องกีฬา",TNT Sport 2
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175186&extension=ts
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/TNTSport2.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.3.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsport3.png" group-title="ช่องกีฬา",TNT Sport 3
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175188&extension=ts
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/TNTSport3.m3u8
 
 #EXTINF:-1 tvg-id="TNT.Sports.4.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png" group-title="ช่องกีฬา",TNT Sport 4
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=175195&extension=ts
-
-#EXTINF:-1 tvg-id="TNT.Sports.5.HD.uk" tvg-logo="https://docdog.top/Logotv/countries/uk/btsportespn.png" group-title="ช่องกีฬา",TNT Sport 5
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/TNTSport4.m3u8
 
 
 
@@ -590,8 +591,15 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=133970&extension=
 #EXTINF:-1 tvg-id="The.Longhorn.Network.HDTV.(LONG).us" tvg-logo="https://docdog.top/Logotv/countries//longhornnetwork.png" group-title="ช่องกีฬา",Longhorn Network
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134071&extension=ts
 
+
+
+
 #EXTINF:-1 tvg-id="NBA.TV.HDTV.(NBA.HD).us" tvg-logo="https://docdog.top/Logotv/countries//nba.png" group-title="ช่องกีฬา",NBA TV
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=282052&extension=ts
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/NBATV.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us" tvg-logo="https://docdog.top/Logotv/countries/united-states/nesn-us.png" group-title="ช่องกีฬา",NESN
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134014&extension=ts
@@ -604,9 +612,32 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134025&extension=
 
 
 
-#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่องกีฬา",WWE
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134030&extension=ts
 
+
+#EXTINF:-1 tvg-id="WWE.Network.us" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่องกีฬา",WWE
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/WWE.m3u8
+
+#EXTINF:-1 tvg-id="WWE.Network.(WWEHD).ca" group-title="ช่องกีฬา" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png",WWE-HD
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/WWEHD.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-name="WWE-1" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่องกีฬา",WWE-สำรอง1
+#EXTVLCOPT:http-referrer=https://freetvdd.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+
+#EXTINF:-1 tvg-name="WWE-2" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่องกีฬา",WWE-สำรอง2
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+http://212.102.60.231/WWE/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-name="WWE-3" tvg-logo="https://docdog.top/Logotv/countries//wwenetwork.png" group-title="ช่องกีฬา",WWE-สำรอง3
+#EXTVLCOPT:http-referrer=
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+https://jmp2.uk/sam-US700005ID.m3u8
 
 
 
@@ -637,48 +668,51 @@ http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=134290&extension=
 
 
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar LaLiga
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929",Movistar LaLiga
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214603&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar LaLiga TV
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929" ,Movistar LaLiga TV
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214606&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar LaLiga 1
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929" ,Movistar LaLiga 1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214605&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar LaLiga 2
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929",Movistar LaLiga 2
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214607&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar LaLiga 3
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929",Movistar LaLiga 3
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214610&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar LaLiga 4
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929",Movistar LaLiga 4
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214611&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar LaLiga 5
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929",Movistar LaLiga 5
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=237953&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar F1
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929",Movistar F1
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214699&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar Futbol
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929",Movistar Futbol
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214701&extension=ts
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",Movistar Golf
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cd/LaLigaTV_por_Movistar_Plus%2B_2023.svg/revision/latest/scale-to-width-down/250?cb=20230704125929",Movistar Golf
 http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214682&extension=ts
 
 
 
 
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",DAZN
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=214688&extension=ts
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png",DAZN
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/DAZN.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",DAZN La Liga
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=245117&extension=ts
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png",DAZN La Liga
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/DAZNLaLiga.m3u8
 
-#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา",DAZN F1
-http://tbtv.me:2095/play/live.php?mac=00:1A:79:30:32:0f&stream=311497&extension=ts
+#EXTINF:-1 tvg-id="" group-title="ช่องกีฬา" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/DAZN_Logo_Master.svg/2048px-DAZN_Logo_Master.svg.png",DAZN F1
+https://github.com/BONDiptv/m3u8/raw/refs/heads/main/DAZNF1.m3u8
+
+
+
 
 
 
